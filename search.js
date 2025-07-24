@@ -77,8 +77,12 @@ const getPageNumber = _.debounce(function() {
     return;
   }
   
+  // Check if it's a range (e.g., "1-100")
+  if (trimmed.includes('-') && isValidRange(trimmed)) {
+    searchByIDRange(trimmed);
+  }
   // Check if it's a number (ID search)
-  if (!isNaN(parseInt(trimmed, 10))) {
+  else if (!isNaN(parseInt(trimmed, 10))) {
     searchByID(trimmed);
   }
   // Check if first character is a letter (meaning search)
@@ -93,6 +97,16 @@ const getPageNumber = _.debounce(function() {
 
 function isLetter(c) {
   return Boolean(c) && c.toLowerCase() !== c.toUpperCase();
+}
+
+function isValidRange(str) {
+  const parts = str.split('-');
+  if (parts.length !== 2) return false;
+  
+  const start = parseInt(parts[0].trim(), 10);
+  const end = parseInt(parts[1].trim(), 10);
+  
+  return !isNaN(start) && !isNaN(end) && start <= end;
 }
 
 // Optimized batch rendering
@@ -116,6 +130,23 @@ function printResults(kanjiArray) {
   
   // Single DOM update
   elements.results.innerHTML = fragments.join('');
+}
+
+function searchByIDRange(rangeStr) {
+  const parts = rangeStr.split('-');
+  const startID = parseInt(parts[0].trim(), 10);
+  const endID = parseInt(parts[1].trim(), 10);
+  
+  const foundKanji = [];
+  
+  for (let id = startID; id <= endID; id++) {
+    const kanji = idIndex.get(id);
+    if (kanji) {
+      foundKanji.push(kanji);
+    }
+  }
+  
+  printResults(foundKanji);
 }
 
 function searchByID(kanjiList) {
