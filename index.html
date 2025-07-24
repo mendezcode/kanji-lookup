@@ -4,9 +4,8 @@
         <meta charset="utf-8">
         <title>KKLC Lookup</title>
         <link rel="stylesheet" type="text/css" href="formStyle.css">
-        <!-- <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"> -->
-        <link rel="icon" href="favicon.ico" type="image/x-icon">
         <!-- https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag -->
+        <link rel="icon" href="favicon.ico" type="image/x-icon">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <script src="lodash.js"></script>
     </head>
@@ -14,9 +13,7 @@
         <div id="outer-wrapper">
             <div id="middle-wrapper"> <!-- event.keyCode is deprecated but it is still supported across major browsers. Replace when there's a better alternative -->
                <div id="description-wrapper"></div>
-                <input id ="search-box" type="text" name="search-box"
-                        oninput="getPageNumber();" autofocus>
-                  <input id="search-button" type="button" onClick="getPageNumber()" name="search-button" value="Search">
+                <input id ="search-box" type="text" name="search-box" oninput="getPageNumber();" autofocus>
                  <div id="results"></div>
             </div>
         </div>
