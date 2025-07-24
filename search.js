@@ -151,6 +151,13 @@ function searchByKanji(kanjiList) {
 
 function searchByMeaning(searchTerm) {
   const searchLower = searchTerm.trim().toLowerCase();
+  
+  // Check if search contains slashes for OR search
+  if (searchLower.includes('/')) {
+    searchByMeaningOR(searchLower);
+    return;
+  }
+  
   const foundKanji = new Set();
   
   // Search for exact meaning matches only
@@ -158,6 +165,27 @@ function searchByMeaning(searchTerm) {
     const kanjiSet = meaningIndex.get(searchLower);
     for (const kanji of kanjiSet) {
       foundKanji.add(kanji);
+    }
+  }
+  
+  printResults([...foundKanji]);
+}
+
+function searchByMeaningOR(searchTerm) {
+  const foundKanji = new Set();
+  
+  // Split by slash and trim each term
+  const searchTerms = searchTerm.split('/')
+    .map(term => term.trim().toLowerCase())
+    .filter(term => term.length > 0); // Remove empty terms
+  
+  // For each search term, find matching kanji and add to set
+  for (const term of searchTerms) {
+    if (meaningIndex.has(term)) {
+      const kanjiSet = meaningIndex.get(term);
+      for (const kanji of kanjiSet) {
+        foundKanji.add(kanji);
+      }
     }
   }
   

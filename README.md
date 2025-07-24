@@ -6,6 +6,7 @@ Forked from [vadasambar/kanji_order](https://github.com/vadasambar/kanji_order)
 
 ## Improvements
 
-- Real Time search (exact by default)
+- Real Time exact search by word bounds
+- Search multiple entries with `/`
+- Fuzzy search, prefix with `~`
 - Improved Kanji card styles
-- Fuzzy search with ~
