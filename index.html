@@ -1,29 +1,25 @@
 <!DOCTYPE html>
-
 <html>
     <head>
         <meta charset="utf-8">
-        <title>KKLC Page Number Lookup</title>
+        <title>KKLC Lookup</title>
         <link rel="stylesheet" type="text/css" href="formStyle.css">
         <!-- <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"> -->
         <link rel="icon" href="favicon.ico" type="image/x-icon">
         <!-- https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag -->
         <meta name="viewport" content="width=device-width, initial-scale=1">
+        <script src="lodash.js"></script>
     </head>
     <body>
         <div id="outer-wrapper">
-            <div id="middle-wrapper">
-<!-- event.keyCode is deprecated but it is still supported across major browsers. Replace when there's a better alternative -->
-               <div id="description-wrapper"><ol class="description"><li> You can enter multiple kanjis and IDs (separate IDs by space) at once.</li>
-                    <li>You can also try to search by KKLC ID or Kanji meaning.</li>
-                    <li>Use <span id="shortcut">Ctrl + s</span> to clear the search box and search again.</li>
-                   </ol> </div>
-                <input id ="search-box" type="text" name="search-box" 
-                       onkeypress="if(event.keyCode == 13) getPageNumber();" autofocus>  
-                <input id="search-button" type="button" onClick="getPageNumber()" name="search-button" value="Search"> 
-                <div id="results"></div>
+            <div id="middle-wrapper"> <!-- event.keyCode is deprecated but it is still supported across major browsers. Replace when there's a better alternative -->
+               <div id="description-wrapper"></div>
+                <input id ="search-box" type="text" name="search-box"
+                        oninput="getPageNumber();" autofocus>
+                  <input id="search-button" type="button" onClick="getPageNumber()" name="search-button" value="Search">
+                 <div id="results"></div>
             </div>
-        </div> 
+        </div>
         <script src="database.js"></script>
         <script src="search.js"></script>
         <script src="shortcuts.js"></script>

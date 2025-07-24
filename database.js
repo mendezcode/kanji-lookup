@@ -1,7 +1,7 @@
 var database = {
    "日":{
       "page":"33",
-      "meaning":"SUN, DAY, JAPAN",
+      "meaning":"SUN・DAY・JAPAN",
       "id":"1"
    },
    "一":{
@@ -61,12 +61,12 @@ var database = {
    },
    "円":{
       "page":"36",
-      "meaning":"CIRCLE, YEN",
+      "meaning":"CIRCLE・YEN",
       "id":"13"
    },
    "○":{
       "page":"36",
-      "meaning":"ZERO, CIRCLE MARK",
+      "meaning":"ZERO・CIRCLE MARK",
       "id":"14"
    },
    "人":{
@@ -101,7 +101,7 @@ var database = {
    },
    "目":{
       "page":"38",
-      "meaning":"EYE, ITEM",
+      "meaning":"EYE・ITEM",
       "id":"21"
    },
    "川":{
@@ -111,12 +111,12 @@ var database = {
    },
    "月":{
       "page":"38",
-      "meaning":"MOON, MONTH",
+      "meaning":"MOON・MONTH",
       "id":"23"
    },
    "明":{
       "page":"38",
-      "meaning":"BRIGHT, CLEAR",
+      "meaning":"BRIGHT・CLEAR",
       "id":"24"
    },
    "曜":{
@@ -136,12 +136,12 @@ var database = {
    },
    "木":{
       "page":"39",
-      "meaning":"TREE, WOOD",
+      "meaning":"TREE・WOOD",
       "id":"28"
    },
    "金":{
       "page":"40",
-      "meaning":"METAL, GOLD, MONEY",
+      "meaning":"METAL・GOLD・MONEY",
       "id":"29"
    },
    "土":{
@@ -151,7 +151,7 @@ var database = {
    },
    "本":{
       "page":"40",
-      "meaning":"BASIS, BOOK, THIS",
+      "meaning":"BASIS・BOOK・THIS",
       "id":"31"
    },
    "東":{
@@ -161,7 +161,7 @@ var database = {
    },
    "大":{
       "page":"41",
-      "meaning":"BIG, UNIVERSITY",
+      "meaning":"BIG・UNIVERSITY",
       "id":"33"
    },
    "小":{
@@ -171,12 +171,12 @@ var database = {
    },
    "中":{
       "page":"41",
-      "meaning":"MIDDLE, IN, CHINA",
+      "meaning":"MIDDLE・IN・CHINA",
       "id":"35"
    },
    "生":{
       "page":"41",
-      "meaning":"LIFE, BE BORN, STUDENT",
+      "meaning":"LIFE・BE BORN・STUDENT",
       "id":"36"
    },
    "山":{
@@ -186,12 +186,12 @@ var database = {
    },
    "出":{
       "page":"42",
-      "meaning":"GO OUT, PUT OUT",
+      "meaning":"GO OUT・PUT OUT",
       "id":"38"
    },
    "入":{
       "page":"42",
-      "meaning":"ENTER, PUT IN",
+      "meaning":"ENTER・PUT IN",
       "id":"39"
    },
    "下":{
@@ -216,7 +216,7 @@ var database = {
    },
    "足":{
       "page":"43",
-      "meaning":"FOOT, SUFFICE",
+      "meaning":"FOOT・SUFFICE",
       "id":"44"
    },
    "定":{
@@ -226,17 +226,17 @@ var database = {
    },
    "手":{
       "page":"44",
-      "meaning":"HAND, PERFORMER OF AN ACTION",
+      "meaning":"HAND・PERFORMER OF AN ACTION",
       "id":"46"
    },
    "用":{
       "page":"44",
-      "meaning":"EMPLOY, THINGS TO DO",
+      "meaning":"EMPLOY・THINGS TO DO",
       "id":"47"
    },
    "無":{
       "page":"44",
-      "meaning":"WITHOUT, NOTHING",
+      "meaning":"WITHOUT・NOTHING",
       "id":"48"
    },
    "不":{
@@ -246,12 +246,12 @@ var database = {
    },
    "回":{
       "page":"45",
-      "meaning":"TURN ROUND, TIME",
+      "meaning":"TURN ROUND・TIME",
       "id":"50"
    },
    "言":{
       "page":"45",
-      "meaning":"SAY, SPEECH",
+      "meaning":"SAY・SPEECH",
       "id":"51"
    },
    "舌":{
@@ -266,12 +266,12 @@ var database = {
    },
    "活":{
       "page":"46",
-      "meaning":"ACTIVE, LIVE",
+      "meaning":"ACTIVE・LIVE",
       "id":"54"
    },
    "行":{
       "page":"46",
-      "meaning":"GO, ACT, LINE",
+      "meaning":"GO・ACT・LINE",
       "id":"55"
    },
    "心":{
@@ -286,7 +286,7 @@ var database = {
    },
    "又":{
       "page":"47",
-      "meaning":"AGAIN, OR",
+      "meaning":"AGAIN・OR",
       "id":"58"
    },
    "取":{
@@ -296,7 +296,7 @@ var database = {
    },
    "身":{
       "page":"47",
-      "meaning":"BODY, ONE'S PERSON, SOCIAL POSITION",
+      "meaning":"BODY・ONE'S PERSON・SOCIAL POSITION",
       "id":"60"
    },
    "休":{
@@ -306,12 +306,12 @@ var database = {
    },
    "体":{
       "page":"48",
-      "meaning":"BODY, FORM",
+      "meaning":"BODY・FORM",
       "id":"62"
    },
    "信":{
       "page":"48",
-      "meaning":"BELIEVE, MESSAGE",
+      "meaning":"BELIEVE・MESSAGE",
       "id":"63"
    },
    "付":{
@@ -326,12 +326,12 @@ var database = {
    },
    "以":{
       "page":"49",
-      "meaning":"TO THE...OF, BY MEANS OF",
+      "meaning":"TO THE...OF・BY MEANS OF",
       "id":"66"
    },
    "立":{
       "page":"49",
-      "meaning":"STAND, ESTABLISH",
+      "meaning":"STAND・ESTABLISH",
       "id":"67"
    },
    "部":{
@@ -341,17 +341,17 @@ var database = {
    },
    "倍":{
       "page":"50",
-      "meaning":"TIMES, DOUBLE",
+      "meaning":"TIMES・DOUBLE",
       "id":"69"
    },
    "成":{
       "page":"50",
-      "meaning":"BECOME, ACHIEVE",
+      "meaning":"BECOME・ACHIEVE",
       "id":"70"
    },
    "代":{
       "page":"50",
-      "meaning":"REPLACE, GENERATION, CHARGE",
+      "meaning":"REPLACE・GENERATION・CHARGE",
       "id":"71"
    },
    "王":{
@@ -391,12 +391,12 @@ var database = {
    },
    "書":{
       "page":"52",
-      "meaning":"WRITE, BOOK",
+      "meaning":"WRITE・BOOK",
       "id":"79"
    },
    "事":{
       "page":"52",
-      "meaning":"AFFAIR, ABSTRACT THING",
+      "meaning":"AFFAIR・ABSTRACT THING",
       "id":"80"
    },
    "自":{
@@ -436,7 +436,7 @@ var database = {
    },
    "分":{
       "page":"54",
-      "meaning":"DIVIDE, PART, MINUTE",
+      "meaning":"DIVIDE・PART・MINUTE",
       "id":"88"
    },
    "公":{
@@ -446,12 +446,12 @@ var database = {
    },
    "別":{
       "page":"55",
-      "meaning":"SEPARATE, ANOTHER",
+      "meaning":"SEPARATE・ANOTHER",
       "id":"90"
    },
    "長":{
       "page":"55",
-      "meaning":"LONG, CHIEF",
+      "meaning":"LONG・CHIEF",
       "id":"91"
    },
    "男":{
@@ -466,17 +466,17 @@ var database = {
    },
    "子":{
       "page":"56",
-      "meaning":"CHILD, NOUN SUFFIX",
+      "meaning":"CHILD・NOUN SUFFIX",
       "id":"94"
    },
    "好":{
       "page":"56",
-      "meaning":"LIKE, FAVORABLE",
+      "meaning":"LIKE・FAVORABLE",
       "id":"95"
    },
    "安":{
       "page":"56",
-      "meaning":"PEACEFUL, INEXPENSIVE",
+      "meaning":"PEACEFUL・INEXPENSIVE",
       "id":"96"
    },
    "案":{
@@ -491,7 +491,7 @@ var database = {
    },
    "学":{
       "page":"57",
-      "meaning":"STUDY, EDUCATIONAL INSTITUTION",
+      "meaning":"STUDY・EDUCATIONAL INSTITUTION",
       "id":"99"
    },
    "父":{
@@ -501,17 +501,17 @@ var database = {
    },
    "文":{
       "page":"58",
-      "meaning":"WRITINGS, LETTER",
+      "meaning":"WRITINGS・LETTER",
       "id":"101"
    },
    "交":{
       "page":"58",
-      "meaning":"INTERCOURSE, CROSS",
+      "meaning":"INTERCOURSE・CROSS",
       "id":"102"
    },
    "校":{
       "page":"58",
-      "meaning":"SCHOOL, PROOFREAD",
+      "meaning":"SCHOOL・PROOFREAD",
       "id":"103"
    },
    "母":{
@@ -536,12 +536,12 @@ var database = {
    },
    "工":{
       "page":"59",
-      "meaning":"MANUFACTURE, CONSTRUCTION",
+      "meaning":"MANUFACTURE・CONSTRUCTION",
       "id":"108"
    },
    "式":{
       "page":"60",
-      "meaning":"FORM, CEREMONY, FORMULA",
+      "meaning":"FORM・CEREMONY・FORMULA",
       "id":"109"
    },
    "弐":{
@@ -571,7 +571,7 @@ var database = {
    },
    "午":{
       "page":"61",
-      "meaning":"NOON,  THE HORSE",
+      "meaning":"NOON・ THE HORSE",
       "id":"115"
    },
    "牛":{
@@ -611,7 +611,7 @@ var database = {
    },
    "比":{
       "page":"63",
-      "meaning":"COMPARE, PHONETIC [HI]",
+      "meaning":"COMPARE・PHONETIC [HI]",
       "id":"123"
    },
    "背":{
@@ -621,12 +621,12 @@ var database = {
    },
    "車":{
       "page":"64",
-      "meaning":"VEHICLE, WHEEL",
+      "meaning":"VEHICLE・WHEEL",
       "id":"125"
    },
    "気":{
       "page":"64",
-      "meaning":"GAS, SPIRIT",
+      "meaning":"GAS・SPIRIT",
       "id":"126"
    },
    "汽":{
@@ -636,7 +636,7 @@ var database = {
    },
    "性":{
       "page":"64",
-      "meaning":"NATURE, SEX, -ITY",
+      "meaning":"NATURE・SEX・-ITY",
       "id":"128"
    },
    "畑":{
@@ -656,7 +656,7 @@ var database = {
    },
    "素":{
       "page":"65",
-      "meaning":"ELEMENT, PLAIN",
+      "meaning":"ELEMENT・PLAIN",
       "id":"132"
    },
    "毒":{
@@ -691,7 +691,7 @@ var database = {
    },
    "法":{
       "page":"67",
-      "meaning":"LAW, METHOD",
+      "meaning":"LAW・METHOD",
       "id":"139"
    },
    "走":{
@@ -701,7 +701,7 @@ var database = {
    },
    "当":{
       "page":"68",
-      "meaning":"THE PRESENT, HIT",
+      "meaning":"THE PRESENT・HIT",
       "id":"141"
    },
    "思":{
@@ -711,7 +711,7 @@ var database = {
    },
    "早":{
       "page":"68",
-      "meaning":"EARLY, QUICK",
+      "meaning":"EARLY・QUICK",
       "id":"143"
    },
    "草":{
@@ -721,7 +721,7 @@ var database = {
    },
    "朝":{
       "page":"69",
-      "meaning":"MORNING, DYNASTY",
+      "meaning":"MORNING・DYNASTY",
       "id":"145"
    },
    "潮":{
@@ -736,12 +736,12 @@ var database = {
    },
    "発":{
       "page":"69",
-      "meaning":"OPEN UP, EMIT, START",
+      "meaning":"OPEN UP・EMIT・START",
       "id":"148"
    },
    "廃":{
       "page":"70",
-      "meaning":"ABANDON, WASTE",
+      "meaning":"ABANDON・WASTE",
       "id":"149"
    },
    "音":{
@@ -751,17 +751,17 @@ var database = {
    },
    "意":{
       "page":"70",
-      "meaning":"MIND, MEANING",
+      "meaning":"MIND・MEANING",
       "id":"151"
    },
    "作":{
       "page":"70",
-      "meaning":"MAKE, WORK",
+      "meaning":"MAKE・WORK",
       "id":"152"
    },
    "昨":{
       "page":"71",
-      "meaning":"YESTERDAY, LAST",
+      "meaning":"YESTERDAY・LAST",
       "id":"153"
    },
    "雨":{
@@ -781,7 +781,7 @@ var database = {
    },
    "首":{
       "page":"72",
-      "meaning":"HEAD, NECK, LEADER",
+      "meaning":"HEAD・NECK・LEADER",
       "id":"157"
    },
    "道":{
@@ -791,7 +791,7 @@ var database = {
    },
    "通":{
       "page":"72",
-      "meaning":"PASS, COMMUNICATE",
+      "meaning":"PASS・COMMUNICATE",
       "id":"159"
    },
    "乳":{
@@ -826,7 +826,7 @@ var database = {
    },
    "句":{
       "page":"74",
-      "meaning":"PHRASE, HAIKU",
+      "meaning":"PHRASE・HAIKU",
       "id":"166"
    },
    "旬":{
@@ -841,12 +841,12 @@ var database = {
    },
    "的":{
       "page":"75",
-      "meaning":"TARGET, ADJECTIVAL SUFFIX",
+      "meaning":"TARGET・ADJECTIVAL SUFFIX",
       "id":"169"
    },
    "約":{
       "page":"75",
-      "meaning":"PROMISE, SHORTEN, APPROXIMATELY",
+      "meaning":"PROMISE・SHORTEN・APPROXIMATELY",
       "id":"170"
    },
    "勿":{
@@ -861,7 +861,7 @@ var database = {
    },
    "方":{
       "page":"76",
-      "meaning":"DIRECTION, WAY, SQUARE",
+      "meaning":"DIRECTION・WAY・SQUARE",
       "id":"173"
    },
    "防":{
@@ -876,7 +876,7 @@ var database = {
    },
    "画":{
       "page":"76",
-      "meaning":"PICTURE, DRAW UP A PLAN",
+      "meaning":"PICTURE・DRAW UP A PLAN",
       "id":"176"
    },
    "両":{
@@ -901,7 +901,7 @@ var database = {
    },
    "産":{
       "page":"78",
-      "meaning":"GIVE BIRTH, PRODUCE",
+      "meaning":"GIVE BIRTH・PRODUCE",
       "id":"181"
    },
    "同":{
@@ -916,12 +916,12 @@ var database = {
    },
    "尚":{
       "page":"78",
-      "meaning":"STILL (MORE), VALUE HIGHLY",
+      "meaning":"STILL (MORE)・VALUE HIGHLY",
       "id":"184"
    },
    "高":{
       "page":"79",
-      "meaning":"HIGH, AMOUNT",
+      "meaning":"HIGH・AMOUNT",
       "id":"185"
    },
    "圧":{
@@ -931,7 +931,7 @@ var database = {
    },
    "地":{
       "page":"79",
-      "meaning":"GROUND, PLACE",
+      "meaning":"GROUND・PLACE",
       "id":"187"
    },
    "池":{
@@ -956,7 +956,7 @@ var database = {
    },
    "込":{
       "page":"80",
-      "meaning":"MOVE INWARD, EMPHATIC VERBAL SUFFIX",
+      "meaning":"MOVE INWARD・EMPHATIC VERBAL SUFFIX",
       "id":"192"
    },
    "斤":{
@@ -966,12 +966,12 @@ var database = {
    },
    "近":{
       "page":"81",
-      "meaning":"NEAR, RECENT",
+      "meaning":"NEAR・RECENT",
       "id":"194"
    },
    "辺":{
       "page":"81",
-      "meaning":"VICINITY, BORDERLAND",
+      "meaning":"VICINITY・BORDERLAND",
       "id":"195"
    },
    "最":{
@@ -1016,12 +1016,12 @@ var database = {
    },
    "布":{
       "page":"83",
-      "meaning":"CLOTH, SPREAD",
+      "meaning":"CLOTH・SPREAD",
       "id":"204"
    },
    "市":{
       "page":"84",
-      "meaning":"CITY, MARKET",
+      "meaning":"CITY・MARKET",
       "id":"205"
    },
    "吊":{
@@ -1036,7 +1036,7 @@ var database = {
    },
    "原":{
       "page":"84",
-      "meaning":"PLAIN, ORIGINAL",
+      "meaning":"PLAIN・ORIGINAL",
       "id":"208"
    },
    "源":{
@@ -1066,7 +1066,7 @@ var database = {
    },
    "願":{
       "page":"86",
-      "meaning":"WISH, ASK A FAVOR",
+      "meaning":"WISH・ASK A FAVOR",
       "id":"214"
    },
    "内":{
@@ -1091,7 +1091,7 @@ var database = {
    },
    "家":{
       "page":"87",
-      "meaning":"HOUSE, FAMILY",
+      "meaning":"HOUSE・FAMILY",
       "id":"219"
    },
    "吾":{
@@ -1106,7 +1106,7 @@ var database = {
    },
    "語":{
       "page":"88",
-      "meaning":"WORD, LANGUAGE, TELL",
+      "meaning":"WORD・LANGUAGE・TELL",
       "id":"222"
    },
    "伝":{
@@ -1126,17 +1126,17 @@ var database = {
    },
    "会":{
       "page":"89",
-      "meaning":"MEET, SOCIETY",
+      "meaning":"MEET・SOCIETY",
       "id":"226"
    },
    "合":{
       "page":"89",
-      "meaning":"COMBINE, FIT",
+      "meaning":"COMBINE・FIT",
       "id":"227"
    },
    "今":{
       "page":"89",
-      "meaning":"PRESENT, THIS",
+      "meaning":"PRESENT・THIS",
       "id":"228"
    },
    "令":{
@@ -1156,7 +1156,7 @@ var database = {
    },
    "命":{
       "page":"90",
-      "meaning":"ORDER, LIFE, FATE",
+      "meaning":"ORDER・LIFE・FATE",
       "id":"232"
    },
    "亡":{
@@ -1166,7 +1166,7 @@ var database = {
    },
    "米":{
       "page":"91",
-      "meaning":"RICE, AMERICA",
+      "meaning":"RICE・AMERICA",
       "id":"234"
    },
    "粒":{
@@ -1176,12 +1176,12 @@ var database = {
    },
    "和":{
       "page":"91",
-      "meaning":"HARMONIOUS, PEACE, JAPAN",
+      "meaning":"HARMONIOUS・PEACE・JAPAN",
       "id":"236"
    },
    "私":{
       "page":"92",
-      "meaning":"PRIVATE, I",
+      "meaning":"PRIVATE・I",
       "id":"237"
    },
    "広":{
@@ -1191,7 +1191,7 @@ var database = {
    },
    "細":{
       "page":"92",
-      "meaning":"SLENDER, MINUTE",
+      "meaning":"SLENDER・MINUTE",
       "id":"239"
    },
    "林":{
@@ -1216,12 +1216,12 @@ var database = {
    },
    "都":{
       "page":"93",
-      "meaning":"METROPOLIS, METROPOLIS OF TOKYO",
+      "meaning":"METROPOLIS・METROPOLIS OF TOKYO",
       "id":"244"
    },
    "京":{
       "page":"94",
-      "meaning":"CAPITAL, TOKYO, KYOTO",
+      "meaning":"CAPITAL・TOKYO・KYOTO",
       "id":"245"
    },
    "政":{
@@ -1231,17 +1231,17 @@ var database = {
    },
    "府":{
       "page":"94",
-      "meaning":"URBAN PREFECTURE, GOVERNMENT OFFICE",
+      "meaning":"URBAN PREFECTURE・GOVERNMENT OFFICE",
       "id":"247"
    },
    "戸":{
       "page":"94",
-      "meaning":"DOOR, HOUSEHOLD",
+      "meaning":"DOOR・HOUSEHOLD",
       "id":"248"
    },
    "所":{
       "page":"95",
-      "meaning":"PLACE, PARTICLE OF NOMINALIZATION",
+      "meaning":"PLACE・PARTICLE OF NOMINALIZATION",
       "id":"249"
    },
    "至":{
@@ -1251,12 +1251,12 @@ var database = {
    },
    "致":{
       "page":"95",
-      "meaning":"BRING ABOUT, DO HUMBLY",
+      "meaning":"BRING ABOUT・DO HUMBLY",
       "id":"251"
    },
    "屋":{
       "page":"95",
-      "meaning":"HOUSE, SMALL SHOP",
+      "meaning":"HOUSE・SMALL SHOP",
       "id":"252"
    },
    "室":{
@@ -1271,17 +1271,17 @@ var database = {
    },
    "居":{
       "page":"96",
-      "meaning":"BE PRESENT, RESIDE",
+      "meaning":"BE PRESENT・RESIDE",
       "id":"255"
    },
    "局":{
       "page":"96",
-      "meaning":"BUREAU, LIMITED PART, SITUATION",
+      "meaning":"BUREAU・LIMITED PART・SITUATION",
       "id":"256"
    },
    "故":{
       "page":"97",
-      "meaning":"OLD, INCIDENT, REASON",
+      "meaning":"OLD・INCIDENT・REASON",
       "id":"257"
    },
    "胡":{
@@ -1296,7 +1296,7 @@ var database = {
    },
    "固":{
       "page":"97",
-      "meaning":"SOLID, FIRM",
+      "meaning":"SOLID・FIRM",
       "id":"260"
    },
    "箇":{
@@ -1306,7 +1306,7 @@ var database = {
    },
    "個":{
       "page":"98",
-      "meaning":"INDIVIDUAL, GENERAL COUNTER",
+      "meaning":"INDIVIDUAL・GENERAL COUNTER",
       "id":"262"
    },
    "且":{
@@ -1316,7 +1316,7 @@ var database = {
    },
    "組":{
       "page":"98",
-      "meaning":"ORGANIZE, ASSEMBLE",
+      "meaning":"ORGANIZE・ASSEMBLE",
       "id":"264"
    },
    "夕":{
@@ -1376,7 +1376,7 @@ var database = {
    },
    "親":{
       "page":"101",
-      "meaning":"PARENT, RELATIVES, INTIMATE",
+      "meaning":"PARENT・RELATIVES・INTIMATE",
       "id":"276"
    },
    "欠":{
@@ -1396,7 +1396,7 @@ var database = {
    },
    "度":{
       "page":"102",
-      "meaning":"DEGREE, TIME",
+      "meaning":"DEGREE・TIME",
       "id":"280"
    },
    "渡":{
@@ -1426,7 +1426,7 @@ var database = {
    },
    "郎":{
       "page":"104",
-      "meaning":"YOUNG MAN, MALE NAME SUFFIX",
+      "meaning":"YOUNG MAN・MALE NAME SUFFIX",
       "id":"286"
    },
    "廊":{
@@ -1436,7 +1436,7 @@ var database = {
    },
    "食":{
       "page":"104",
-      "meaning":"EAT, FOOD",
+      "meaning":"EAT・FOOD",
       "id":"288"
    },
    "飲":{
@@ -1446,7 +1446,7 @@ var database = {
    },
    "官":{
       "page":"105",
-      "meaning":"GOVERNMENT, GOVERNMENT OFFICIAL",
+      "meaning":"GOVERNMENT・GOVERNMENT OFFICIAL",
       "id":"290"
    },
    "館":{
@@ -1466,22 +1466,22 @@ var database = {
    },
    "太":{
       "page":"106",
-      "meaning":"GREAT, THICK",
+      "meaning":"GREAT・THICK",
       "id":"294"
    },
    "器":{
       "page":"106",
-      "meaning":"VESSEL, INSTRUMENT",
+      "meaning":"VESSEL・INSTRUMENT",
       "id":"295"
    },
    "凶":{
       "page":"106",
-      "meaning":"MISFORTUNE, EVIL",
+      "meaning":"MISFORTUNE・EVIL",
       "id":"296"
    },
    "区":{
       "page":"107",
-      "meaning":"DIVIDE INTO SECTIONS, DISTRICT, WARD",
+      "meaning":"DIVIDE INTO SECTIONS・DISTRICT・WARD",
       "id":"297"
    },
    "図":{
@@ -1491,22 +1491,22 @@ var database = {
    },
    "番":{
       "page":"107",
-      "meaning":"NUMERICAL ORDER, WATCH",
+      "meaning":"NUMERICAL ORDER・WATCH",
       "id":"299"
    },
    "号":{
       "page":"107",
-      "meaning":"NUMBER, DESIGNATION, SIGN",
+      "meaning":"NUMBER・DESIGNATION・SIGN",
       "id":"300"
    },
    "品":{
       "page":"108",
-      "meaning":"ARTICLE, GRADE OF EXCELLENCE, CLASSIFICATION",
+      "meaning":"ARTICLE・GRADE OF EXCELLENCE・CLASSIFICATION",
       "id":"301"
    },
    "楽":{
       "page":"108",
-      "meaning":"PLEASURE, COMFORTABLE, MUSIC",
+      "meaning":"PLEASURE・COMFORTABLE・MUSIC",
       "id":"302"
    },
    "薬":{
@@ -1526,12 +1526,12 @@ var database = {
    },
    "調":{
       "page":"109",
-      "meaning":"TONE, INVESTIGATE, PREPARE",
+      "meaning":"TONE・INVESTIGATE・PREPARE",
       "id":"306"
    },
    "束":{
       "page":"109",
-      "meaning":"TIE UP, BUNDLE",
+      "meaning":"TIE UP・BUNDLE",
       "id":"307"
    },
    "整":{
@@ -1561,17 +1561,17 @@ var database = {
    },
    "礼":{
       "page":"111",
-      "meaning":"ETIQUETTE, RITE",
+      "meaning":"ETIQUETTE・RITE",
       "id":"313"
    },
    "社":{
       "page":"111",
-      "meaning":"COMPANY, SOCIETY, SHINTO SHRINE",
+      "meaning":"COMPANY・SOCIETY・SHINTO SHRINE",
       "id":"314"
    },
    "申":{
       "page":"111",
-      "meaning":"REPORT, SPEAK HUMBLY",
+      "meaning":"REPORT・SPEAK HUMBLY",
       "id":"315"
    },
    "神":{
@@ -1586,7 +1586,7 @@ var database = {
    },
    "質":{
       "page":"112",
-      "meaning":"QUALITY, MATTER, PAWN",
+      "meaning":"QUALITY・MATTER・PAWN",
       "id":"318"
    },
    "党":{
@@ -1601,7 +1601,7 @@ var database = {
    },
    "常":{
       "page":"113",
-      "meaning":"NORMAL, REGULAR",
+      "meaning":"NORMAL・REGULAR",
       "id":"321"
    },
    "賞":{
@@ -1616,12 +1616,12 @@ var database = {
    },
    "掌":{
       "page":"113",
-      "meaning":"PALM OF ONE'S HAND, TAKE CHARGE OF",
+      "meaning":"PALM OF ONE'S HAND・TAKE CHARGE OF",
       "id":"324"
    },
    "覚":{
       "page":"114",
-      "meaning":"PERCEIVE, WAKE UP, COMMIT TO MEMORY",
+      "meaning":"PERCEIVE・WAKE UP・COMMIT TO MEMORY",
       "id":"325"
    },
    "悟":{
@@ -1641,7 +1641,7 @@ var database = {
    },
    "映":{
       "page":"115",
-      "meaning":"REFLECT, PROJECT",
+      "meaning":"REFLECT・PROJECT",
       "id":"329"
    },
    "決":{
@@ -1656,7 +1656,7 @@ var database = {
    },
    "英":{
       "page":"115",
-      "meaning":"DISTINGUISHED, ENGLAND",
+      "meaning":"DISTINGUISHED・ENGLAND",
       "id":"332"
    },
    "並":{
@@ -1666,7 +1666,7 @@ var database = {
    },
    "平":{
       "page":"116",
-      "meaning":"FLAT, CALM",
+      "meaning":"FLAT・CALM",
       "id":"334"
    },
    "半":{
@@ -1706,7 +1706,7 @@ var database = {
    },
    "角":{
       "page":"118",
-      "meaning":"ANGLE, HORN",
+      "meaning":"ANGLE・HORN",
       "id":"342"
    },
    "虫":{
@@ -1721,7 +1721,7 @@ var database = {
    },
    "解":{
       "page":"119",
-      "meaning":"TAKE APART, DISSOLVE, CLARIFY",
+      "meaning":"TAKE APART・DISSOLVE・CLARIFY",
       "id":"345"
    },
    "独":{
@@ -1736,7 +1736,7 @@ var database = {
    },
    "占":{
       "page":"119",
-      "meaning":"OCCUPY, DIVINE",
+      "meaning":"OCCUPY・DIVINE",
       "id":"348"
    },
    "点":{
@@ -1746,7 +1746,7 @@ var database = {
    },
    "士":{
       "page":"120",
-      "meaning":"MILITARY MAN, MAN OF LEARNING",
+      "meaning":"MILITARY MAN・MAN OF LEARNING",
       "id":"350"
    },
    "商":{
@@ -1821,7 +1821,7 @@ var database = {
    },
    "主":{
       "page":"124",
-      "meaning":"MAIN, LORD",
+      "meaning":"MAIN・LORD",
       "id":"365"
    },
    "住":{
@@ -1836,7 +1836,7 @@ var database = {
    },
    "注":{
       "page":"124",
-      "meaning":"POUR, CONCENTRATE",
+      "meaning":"POUR・CONCENTRATE",
       "id":"368"
    },
    "志":{
@@ -1851,17 +1851,17 @@ var database = {
    },
    "仕":{
       "page":"125",
-      "meaning":"SERVE, DO",
+      "meaning":"SERVE・DO",
       "id":"371"
    },
    "任":{
       "page":"125",
-      "meaning":"OFFICE, ENTRUST",
+      "meaning":"OFFICE・ENTRUST",
       "id":"372"
    },
    "支":{
       "page":"126",
-      "meaning":"BRANCH, SUPPORT, BE OBSTRUCTED",
+      "meaning":"BRANCH・SUPPORT・BE OBSTRUCTED",
       "id":"373"
    },
    "反":{
@@ -1881,7 +1881,7 @@ var database = {
    },
    "飯":{
       "page":"127",
-      "meaning":"COOKED RICE, MEAL",
+      "meaning":"COOKED RICE・MEAL",
       "id":"377"
    },
    "返":{
@@ -1891,7 +1891,7 @@ var database = {
    },
    "雑":{
       "page":"127",
-      "meaning":"MISCELLANEOUS, MIXED",
+      "meaning":"MISCELLANEOUS・MIXED",
       "id":"379"
    },
    "乱":{
@@ -1901,7 +1901,7 @@ var database = {
    },
    "寸":{
       "page":"128",
-      "meaning":"A BIT OF, SUN (3.03cm)",
+      "meaning":"A BIT OF・SUN (3.03cm)",
       "id":"381"
    },
    "寺":{
@@ -1931,12 +1931,12 @@ var database = {
    },
    "得":{
       "page":"129",
-      "meaning":"ACQUIRE, GAIN",
+      "meaning":"ACQUIRE・GAIN",
       "id":"387"
    },
    "侍":{
       "page":"129",
-      "meaning":"ATTEND UPON, SAMURAI",
+      "meaning":"ATTEND UPON・SAMURAI",
       "id":"388"
    },
    "詩":{
@@ -1946,22 +1946,22 @@ var database = {
    },
    "即":{
       "page":"130",
-      "meaning":"IMMEDIATE, NAMELY",
+      "meaning":"IMMEDIATE・NAMELY",
       "id":"390"
    },
    "節":{
       "page":"130",
-      "meaning":"JOINT, INTERVAL, SEASON OF THE YEAR",
+      "meaning":"JOINT・INTERVAL・SEASON OF THE YEAR",
       "id":"391"
    },
    "筋":{
       "page":"130",
-      "meaning":"MUSCLE, THREADLIKE STRUCTURE",
+      "meaning":"MUSCLE・THREADLIKE STRUCTURE",
       "id":"392"
    },
    "等":{
       "page":"131",
-      "meaning":"EQUAL, CLASS",
+      "meaning":"EQUAL・CLASS",
       "id":"393"
    },
    "均":{
@@ -1986,7 +1986,7 @@ var database = {
    },
    "空":{
       "page":"132",
-      "meaning":"SKY, AIR, EMPTY",
+      "meaning":"SKY・AIR・EMPTY",
       "id":"398"
    },
    "友":{
@@ -2021,7 +2021,7 @@ var database = {
    },
    "苦":{
       "page":"134",
-      "meaning":"SUFFERING, BITTER",
+      "meaning":"SUFFERING・BITTER",
       "id":"405"
    },
    "在":{
@@ -2056,7 +2056,7 @@ var database = {
    },
    "利":{
       "page":"135",
-      "meaning":"ADVANTAGE, PROFIT",
+      "meaning":"ADVANTAGE・PROFIT",
       "id":"412"
    },
    "害":{
@@ -2086,7 +2086,7 @@ var database = {
    },
    "羽":{
       "page":"137",
-      "meaning":"FEATHER, WING",
+      "meaning":"FEATHER・WING",
       "id":"418"
    },
    "翌":{
@@ -2096,7 +2096,7 @@ var database = {
    },
    "習":{
       "page":"137",
-      "meaning":"LEARN, CUSTOM",
+      "meaning":"LEARN・CUSTOM",
       "id":"420"
    },
    "弓":{
@@ -2106,7 +2106,7 @@ var database = {
    },
    "引":{
       "page":"138",
-      "meaning":"DRAW, REDUCE",
+      "meaning":"DRAW・REDUCE",
       "id":"422"
    },
    "強":{
@@ -2121,7 +2121,7 @@ var database = {
    },
    "風":{
       "page":"139",
-      "meaning":"WIND, MANNER",
+      "meaning":"WIND・MANNER",
       "id":"425"
    },
    "己":{
@@ -2136,7 +2136,7 @@ var database = {
    },
    "紀":{
       "page":"139",
-      "meaning":"ERA, DISCIPLINE",
+      "meaning":"ERA・DISCIPLINE",
       "id":"428"
    },
    "改":{
@@ -2181,7 +2181,7 @@ var database = {
    },
    "丁":{
       "page":"142",
-      "meaning":"TOWN SUBSECTION, MISCELLANEOUS COUNTER",
+      "meaning":"TOWN SUBSECTION・MISCELLANEOUS COUNTER",
       "id":"437"
    },
    "寧":{
@@ -2211,7 +2211,7 @@ var database = {
    },
    "易":{
       "page":"143",
-      "meaning":"EASY, EXCHANGE, FORTUNETELLING",
+      "meaning":"EASY・EXCHANGE・FORTUNETELLING",
       "id":"443"
    },
    "賜":{
@@ -2251,7 +2251,7 @@ var database = {
    },
    "関":{
       "page":"145",
-      "meaning":"CONNECT WITH, BARRIER",
+      "meaning":"CONNECT WITH・BARRIER",
       "id":"451"
    },
    "問":{
@@ -2276,17 +2276,17 @@ var database = {
    },
    "券":{
       "page":"146",
-      "meaning":"TICKET, CERTIFICATE",
+      "meaning":"TICKET・CERTIFICATE",
       "id":"456"
    },
    "包":{
       "page":"147",
-      "meaning":"WRAP, ENCOMPASS",
+      "meaning":"WRAP・ENCOMPASS",
       "id":"457"
    },
    "巻":{
       "page":"147",
-      "meaning":"ROLL UP, VOLUME",
+      "meaning":"ROLL UP・VOLUME",
       "id":"458"
    },
    "圏":{
@@ -2296,7 +2296,7 @@ var database = {
    },
    "勝":{
       "page":"147",
-      "meaning":"WIN, EXCEL",
+      "meaning":"WIN・EXCEL",
       "id":"460"
    },
    "戦":{
@@ -2316,7 +2316,7 @@ var database = {
    },
    "過":{
       "page":"148",
-      "meaning":"PASS BY, EXCEED",
+      "meaning":"PASS BY・EXCEED",
       "id":"464"
    },
    "骨":{
@@ -2346,7 +2346,7 @@ var database = {
    },
    "幾":{
       "page":"150",
-      "meaning":"HOW MANY, SOME",
+      "meaning":"HOW MANY・SOME",
       "id":"470"
    },
    "畿":{
@@ -2361,7 +2361,7 @@ var database = {
    },
    "機":{
       "page":"151",
-      "meaning":"MACHINE, AIRCRAFT, OPPORTUNITY",
+      "meaning":"MACHINE・AIRCRAFT・OPPORTUNITY",
       "id":"473"
    },
    "械":{
@@ -2376,7 +2376,7 @@ var database = {
    },
    "氏":{
       "page":"151",
-      "meaning":"FAMILY, COURTESY TITLE",
+      "meaning":"FAMILY・COURTESY TITLE",
       "id":"476"
    },
    "民":{
@@ -2426,7 +2426,7 @@ var database = {
    },
    "期":{
       "page":"154",
-      "meaning":"TERM, EXPECT",
+      "meaning":"TERM・EXPECT",
       "id":"486"
    },
    "毛":{
@@ -2451,7 +2451,7 @@ var database = {
    },
    "洋":{
       "page":"155",
-      "meaning":"OCEAN, WESTERN",
+      "meaning":"OCEAN・WESTERN",
       "id":"491"
    },
    "魚":{
@@ -2461,7 +2461,7 @@ var database = {
    },
    "鮮":{
       "page":"156",
-      "meaning":"FRESH, VIVID",
+      "meaning":"FRESH・VIVID",
       "id":"493"
    },
    "蘇":{
@@ -2486,12 +2486,12 @@ var database = {
    },
    "業":{
       "page":"157",
-      "meaning":"WORK, BUSINESS, INDUSTRY",
+      "meaning":"WORK・BUSINESS・INDUSTRY",
       "id":"498"
    },
    "実":{
       "page":"157",
-      "meaning":"REAL, FRUIT",
+      "meaning":"REAL・FRUIT",
       "id":"499"
    },
    "養":{
@@ -2501,7 +2501,7 @@ var database = {
    },
    "様":{
       "page":"158",
-      "meaning":"MODE, FORMAL TITLE",
+      "meaning":"MODE・FORMAL TITLE",
       "id":"501"
    },
    "企":{
@@ -2511,17 +2511,17 @@ var database = {
    },
    "曲":{
       "page":"158",
-      "meaning":"MUSICAL COMPOSITION, CURVE",
+      "meaning":"MUSICAL COMPOSITION・CURVE",
       "id":"503"
    },
    "典":{
       "page":"158",
-      "meaning":"STANDARD WORK, CANON",
+      "meaning":"STANDARD WORK・CANON",
       "id":"504"
    },
    "興":{
       "page":"159",
-      "meaning":"RISE TO PROSPERITY, AMUSEMENT",
+      "meaning":"RISE TO PROSPERITY・AMUSEMENT",
       "id":"505"
    },
    "輿":{
@@ -2571,17 +2571,17 @@ var database = {
    },
    "詰":{
       "page":"161",
-      "meaning":"STUFF, REPRIMAND",
+      "meaning":"STUFF・REPRIMAND",
       "id":"515"
    },
    "結":{
       "page":"161",
-      "meaning":"TIE, CONCLUDE",
+      "meaning":"TIE・CONCLUDE",
       "id":"516"
    },
    "投":{
       "page":"162",
-      "meaning":"THROW, SEND IN",
+      "meaning":"THROW・SEND IN",
       "id":"517"
    },
    "役":{
@@ -2626,7 +2626,7 @@ var database = {
    },
    "給":{
       "page":"164",
-      "meaning":"SUPPLY, PAY",
+      "meaning":"SUPPLY・PAY",
       "id":"526"
    },
    "巴":{
@@ -2636,7 +2636,7 @@ var database = {
    },
    "色":{
       "page":"164",
-      "meaning":"COLOR, EROS",
+      "meaning":"COLOR・EROS",
       "id":"528"
    },
    "声":{
@@ -2651,12 +2651,12 @@ var database = {
    },
    "里":{
       "page":"165",
-      "meaning":"VILLAGE, LEAGUE",
+      "meaning":"VILLAGE・LEAGUE",
       "id":"531"
    },
    "理":{
       "page":"165",
-      "meaning":"REASON, BASIC PRINCIPLE, MANAGE",
+      "meaning":"REASON・BASIC PRINCIPLE・MANAGE",
       "id":"532"
    },
    "埋":{
@@ -2666,7 +2666,7 @@ var database = {
    },
    "野":{
       "page":"166",
-      "meaning":"FIELD, WILD",
+      "meaning":"FIELD・WILD",
       "id":"534"
    },
    "黒":{
@@ -2691,7 +2691,7 @@ var database = {
    },
    "重":{
       "page":"167",
-      "meaning":"HEAVY, PILE ON TOP OF",
+      "meaning":"HEAVY・PILE ON TOP OF",
       "id":"539"
    },
    "動":{
@@ -2716,12 +2716,12 @@ var database = {
    },
    "種":{
       "page":"168",
-      "meaning":"VARIETY, SEED",
+      "meaning":"VARIETY・SEED",
       "id":"544"
    },
    "亜":{
       "page":"169",
-      "meaning":"SUB-, PHONETIC [A]",
+      "meaning":"SUB-・PHONETIC [A]",
       "id":"545"
    },
    "悪":{
@@ -2731,12 +2731,12 @@ var database = {
    },
    "要":{
       "page":"169",
-      "meaning":"IMPORTANT, SUMMARIZE, REQUIRE",
+      "meaning":"IMPORTANT・SUMMARIZE・REQUIRE",
       "id":"547"
    },
    "価":{
       "page":"169",
-      "meaning":"PRICE, VALUE",
+      "meaning":"PRICE・VALUE",
       "id":"548"
    },
    "必":{
@@ -2746,7 +2746,7 @@ var database = {
    },
    "証":{
       "page":"170",
-      "meaning":"PROVE, CERTIFICATE",
+      "meaning":"PROVE・CERTIFICATE",
       "id":"550"
    },
    "歪":{
@@ -2756,7 +2756,7 @@ var database = {
    },
    "否":{
       "page":"170",
-      "meaning":"SAY NO, OR NOT",
+      "meaning":"SAY NO・OR NOT",
       "id":"552"
    },
    "処":{
@@ -2771,7 +2771,7 @@ var database = {
    },
    "計":{
       "page":"171",
-      "meaning":"PLAN, COMPUTE",
+      "meaning":"PLAN・COMPUTE",
       "id":"555"
    },
    "針":{
@@ -2781,7 +2781,7 @@ var database = {
    },
    "総":{
       "page":"172",
-      "meaning":"WHOLE, GENERAL",
+      "meaning":"WHOLE・GENERAL",
       "id":"557"
    },
    "窓":{
@@ -2801,7 +2801,7 @@ var database = {
    },
    "医":{
       "page":"173",
-      "meaning":"MEDICINE, DOCTOR",
+      "meaning":"MEDICINE・DOCTOR",
       "id":"561"
    },
    "短":{
@@ -2811,7 +2811,7 @@ var database = {
    },
    "失":{
       "page":"173",
-      "meaning":"LOSE, SLIP",
+      "meaning":"LOSE・SLIP",
       "id":"563"
    },
    "鉄":{
@@ -2821,7 +2821,7 @@ var database = {
    },
    "夫":{
       "page":"174",
-      "meaning":"HUSBAND, MAN LABORER",
+      "meaning":"HUSBAND・MAN LABORER",
       "id":"565"
    },
    "朱":{
@@ -2846,12 +2846,12 @@ var database = {
    },
    "遊":{
       "page":"175",
-      "meaning":"PLAY, TOUR",
+      "meaning":"PLAY・TOUR",
       "id":"570"
    },
    "施":{
       "page":"175",
-      "meaning":"EXECUTE, BESTOW",
+      "meaning":"EXECUTE・BESTOW",
       "id":"571"
    },
    "旋":{
@@ -2871,7 +2871,7 @@ var database = {
    },
    "激":{
       "page":"176",
-      "meaning":"VIOLENT, AROUSE",
+      "meaning":"VIOLENT・AROUSE",
       "id":"575"
    },
    "牧":{
@@ -2881,7 +2881,7 @@ var database = {
    },
    "位":{
       "page":"177",
-      "meaning":"RANK, POSITION",
+      "meaning":"RANK・POSITION",
       "id":"577"
    },
    "泣":{
@@ -2906,7 +2906,7 @@ var database = {
    },
    "連":{
       "page":"178",
-      "meaning":"LINK, IN SUCCESSION",
+      "meaning":"LINK・IN SUCCESSION",
       "id":"582"
    },
    "軍":{
@@ -2916,7 +2916,7 @@ var database = {
    },
    "運":{
       "page":"178",
-      "meaning":"CARRY, MOVE, FORTUNE",
+      "meaning":"CARRY・MOVE・FORTUNE",
       "id":"584"
    },
    "蓮":{
@@ -2936,12 +2936,12 @@ var database = {
    },
    "程":{
       "page":"179",
-      "meaning":"EXTENT, ESTABLISHED FORM",
+      "meaning":"EXTENT・ESTABLISHED FORM",
       "id":"588"
    },
    "聖":{
       "page":"180",
-      "meaning":"HOLY, SAINT",
+      "meaning":"HOLY・SAINT",
       "id":"589"
    },
    "丑":{
@@ -2956,7 +2956,7 @@ var database = {
    },
    "革":{
       "page":"180",
-      "meaning":"LEATHER, REFORM",
+      "meaning":"LEATHER・REFORM",
       "id":"592"
    },
    "靴":{
@@ -2991,12 +2991,12 @@ var database = {
    },
    "果":{
       "page":"182",
-      "meaning":"FRUIT, ACCOMPLISH",
+      "meaning":"FRUIT・ACCOMPLISH",
       "id":"599"
    },
    "課":{
       "page":"182",
-      "meaning":"ASSIGNMENT, ASSIGN",
+      "meaning":"ASSIGNMENT・ASSIGN",
       "id":"600"
    },
    "巣":{
@@ -3016,7 +3016,7 @@ var database = {
    },
    "世":{
       "page":"183",
-      "meaning":"WORLD, AGE",
+      "meaning":"WORLD・AGE",
       "id":"604"
    },
    "葉":{
@@ -3046,7 +3046,7 @@ var database = {
    },
    "縁":{
       "page":"185",
-      "meaning":"RELATION, EDGE",
+      "meaning":"RELATION・EDGE",
       "id":"610"
    },
    "介":{
@@ -3056,7 +3056,7 @@ var database = {
    },
    "界":{
       "page":"185",
-      "meaning":"WORLD, BOUNDS",
+      "meaning":"WORLD・BOUNDS",
       "id":"612"
    },
    "浮":{
@@ -3076,7 +3076,7 @@ var database = {
    },
    "状":{
       "page":"186",
-      "meaning":"FORM, CONDITION, LETTER",
+      "meaning":"FORM・CONDITION・LETTER",
       "id":"616"
    },
    "病":{
@@ -3091,7 +3091,7 @@ var database = {
    },
    "痛":{
       "page":"187",
-      "meaning":"PAIN, ACUTE",
+      "meaning":"PAIN・ACUTE",
       "id":"619"
    },
    "憶":{
@@ -3131,7 +3131,7 @@ var database = {
    },
    "測":{
       "page":"189",
-      "meaning":"MEASURE, CONJECTURE",
+      "meaning":"MEASURE・CONJECTURE",
       "id":"627"
    },
    "考":{
@@ -3151,12 +3151,12 @@ var database = {
    },
    "厚":{
       "page":"190",
-      "meaning":"THICK, KIND",
+      "meaning":"THICK・KIND",
       "id":"631"
    },
    "教":{
       "page":"190",
-      "meaning":"TEACH, RELIGION",
+      "meaning":"TEACH・RELIGION",
       "id":"632"
    },
    "完":{
@@ -3186,12 +3186,12 @@ var database = {
    },
    "際":{
       "page":"192",
-      "meaning":"VERGE, OCCASION",
+      "meaning":"VERGE・OCCASION",
       "id":"638"
    },
    "察":{
       "page":"192",
-      "meaning":"INSPECT, GUESS",
+      "meaning":"INSPECT・GUESS",
       "id":"639"
    },
    "祈":{
@@ -3211,7 +3211,7 @@ var database = {
    },
    "仲":{
       "page":"193",
-      "meaning":"INTERMEDIARY, PERSONAL RELATIONS",
+      "meaning":"INTERMEDIARY・PERSONAL RELATIONS",
       "id":"643"
    },
    "忠":{
@@ -3246,7 +3246,7 @@ var database = {
    },
    "対":{
       "page":"195",
-      "meaning":"OPPOSITE, OPPOSE",
+      "meaning":"OPPOSITE・OPPOSE",
       "id":"650"
    },
    "村":{
@@ -3256,7 +3256,7 @@ var database = {
    },
    "才":{
       "page":"195",
-      "meaning":"TALENT, -YEARS OLD",
+      "meaning":"TALENT・-YEARS OLD",
       "id":"652"
    },
    "財":{
@@ -3266,7 +3266,7 @@ var database = {
    },
    "材":{
       "page":"196",
-      "meaning":"TIMBER, MATERIAL",
+      "meaning":"TIMBER・MATERIAL",
       "id":"654"
    },
    "沈":{
@@ -3281,7 +3281,7 @@ var database = {
    },
    "丈":{
       "page":"197",
-      "meaning":"STATURE, STOUT",
+      "meaning":"STATURE・STOUT",
       "id":"657"
    },
    "杖":{
@@ -3311,7 +3311,7 @@ var database = {
    },
    "違":{
       "page":"198",
-      "meaning":"DIFFER, VIOLATE",
+      "meaning":"DIFFER・VIOLATE",
       "id":"663"
    },
    "抱":{
@@ -3361,7 +3361,7 @@ var database = {
    },
    "盤":{
       "page":"201",
-      "meaning":"DISK, BOARD",
+      "meaning":"DISK・BOARD",
       "id":"673"
    },
    "歯":{
@@ -3401,12 +3401,12 @@ var database = {
    },
    "省":{
       "page":"203",
-      "meaning":"MINISTRY, SAVE, INTROSPECT",
+      "meaning":"MINISTRY・SAVE・INTROSPECT",
       "id":"681"
    },
    "相":{
       "page":"203",
-      "meaning":"ASPECT, MUTUAL, MINISTER",
+      "meaning":"ASPECT・MUTUAL・MINISTER",
       "id":"682"
    },
    "想":{
@@ -3421,7 +3421,7 @@ var database = {
    },
    "弥":{
       "page":"204",
-      "meaning":"PHONETIC [MI], PHONETIC [YA]",
+      "meaning":"PHONETIC [MI]・PHONETIC [YA]",
       "id":"685"
    },
    "互":{
@@ -3451,12 +3451,12 @@ var database = {
    },
    "軒":{
       "page":"205",
-      "meaning":"EAVES, COUNTER FOR HOUSES",
+      "meaning":"EAVES・COUNTER FOR HOUSES",
       "id":"691"
    },
    "軸":{
       "page":"205",
-      "meaning":"AXLE, AXIS",
+      "meaning":"AXLE・AXIS",
       "id":"692"
    },
    "較":{
@@ -3486,7 +3486,7 @@ var database = {
    },
    "告":{
       "page":"207",
-      "meaning":"NOTIFY, ACCUSE",
+      "meaning":"NOTIFY・ACCUSE",
       "id":"698"
    },
    "造":{
@@ -3521,22 +3521,22 @@ var database = {
    },
    "表":{
       "page":"209",
-      "meaning":"EXPRESS, SURFACE, TABLE",
+      "meaning":"EXPRESS・SURFACE・TABLE",
       "id":"705"
    },
    "現":{
       "page":"209",
-      "meaning":"ACTUAL, APPEAR",
+      "meaning":"ACTUAL・APPEAR",
       "id":"706"
    },
    "著":{
       "page":"209",
-      "meaning":"AUTHOR, CONSPICUOUS",
+      "meaning":"AUTHOR・CONSPICUOUS",
       "id":"707"
    },
    "制":{
       "page":"209",
-      "meaning":"SYSTEM, CONTROL",
+      "meaning":"SYSTEM・CONTROL",
       "id":"708"
    },
    "製":{
@@ -3556,7 +3556,7 @@ var database = {
    },
    "難":{
       "page":"210",
-      "meaning":"DIFFICULT, DISASTER, FAULT",
+      "meaning":"DIFFICULT・DISASTER・FAULT",
       "id":"712"
    },
    "准":{
@@ -3566,7 +3566,7 @@ var database = {
    },
    "準":{
       "page":"211",
-      "meaning":"STANDARD, QUASI-",
+      "meaning":"STANDARD・QUASI-",
       "id":"714"
    },
    "備":{
@@ -3616,7 +3616,7 @@ var database = {
    },
    "研":{
       "page":"213",
-      "meaning":"GRIND, RESEARCH",
+      "meaning":"GRIND・RESEARCH",
       "id":"724"
    },
    "厄":{
@@ -3656,7 +3656,7 @@ var database = {
    },
    "腕":{
       "page":"215",
-      "meaning":"ARM, ABILITY",
+      "meaning":"ARM・ABILITY",
       "id":"732"
    },
    "却":{
@@ -3691,7 +3691,7 @@ var database = {
    },
    "排":{
       "page":"217",
-      "meaning":"EXCLUDE, DISCHARGE",
+      "meaning":"EXCLUDE・DISCHARGE",
       "id":"739"
    },
    "俳":{
@@ -3716,7 +3716,7 @@ var database = {
    },
    "判":{
       "page":"218",
-      "meaning":"JUDGE, PERSONAL SEAL",
+      "meaning":"JUDGE・PERSONAL SEAL",
       "id":"744"
    },
    "評":{
@@ -3741,7 +3741,7 @@ var database = {
    },
    "座":{
       "page":"220",
-      "meaning":"SEAT, SIT",
+      "meaning":"SEAT・SIT",
       "id":"749"
    },
    "坐":{
@@ -3751,12 +3751,12 @@ var database = {
    },
    "卒":{
       "page":"220",
-      "meaning":"GRADUATE, PRIVATE",
+      "meaning":"GRADUATE・PRIVATE",
       "id":"751"
    },
    "率":{
       "page":"220",
-      "meaning":"RATE, LEAD",
+      "meaning":"RATE・LEAD",
       "id":"752"
    },
    "傘":{
@@ -3776,17 +3776,17 @@ var database = {
    },
    "汁":{
       "page":"221",
-      "meaning":"JUICE, SOUP",
+      "meaning":"JUICE・SOUP",
       "id":"756"
    },
    "斗":{
       "page":"222",
-      "meaning":"DIPPER, TO (18L)",
+      "meaning":"DIPPER・TO (18L)",
       "id":"757"
    },
    "料":{
       "page":"222",
-      "meaning":"FEE, MATERIALS",
+      "meaning":"FEE・MATERIALS",
       "id":"758"
    },
    "科":{
@@ -3796,7 +3796,7 @@ var database = {
    },
    "然":{
       "page":"222",
-      "meaning":"-LIKE, SO",
+      "meaning":"-LIKE・SO",
       "id":"760"
    },
    "燃":{
@@ -3871,7 +3871,7 @@ var database = {
    },
    "変":{
       "page":"226",
-      "meaning":"CHANGE, ABNORMAL",
+      "meaning":"CHANGE・ABNORMAL",
       "id":"775"
    },
    "蛮":{
@@ -3891,12 +3891,12 @@ var database = {
    },
    "憂":{
       "page":"227",
-      "meaning":"BE ANXIOUS, GRIEF",
+      "meaning":"BE ANXIOUS・GRIEF",
       "id":"779"
    },
    "優":{
       "page":"227",
-      "meaning":"SUPERIOR, ACTOR, KIND",
+      "meaning":"SUPERIOR・ACTOR・KIND",
       "id":"780"
    },
    "栗":{
@@ -3906,7 +3906,7 @@ var database = {
    },
    "票":{
       "page":"228",
-      "meaning":"SLIP OF PAPER, BALLOT",
+      "meaning":"SLIP OF PAPER・BALLOT",
       "id":"782"
    },
    "標":{
@@ -3931,7 +3931,7 @@ var database = {
    },
    "客":{
       "page":"229",
-      "meaning":"VISITOR, CUSTOMER",
+      "meaning":"VISITOR・CUSTOMER",
       "id":"787"
    },
    "路":{
@@ -3941,22 +3941,22 @@ var database = {
    },
    "格":{
       "page":"230",
-      "meaning":"NORM, STATUS, CHARACTER",
+      "meaning":"NORM・STATUS・CHARACTER",
       "id":"789"
    },
    "絡":{
       "page":"230",
-      "meaning":"INTERLINK, ENTWINE",
+      "meaning":"INTERLINK・ENTWINE",
       "id":"790"
    },
    "略":{
       "page":"230",
-      "meaning":"LEAVE OUT, STRATEGY",
+      "meaning":"LEAVE OUT・STRATEGY",
       "id":"791"
    },
    "閣":{
       "page":"230",
-      "meaning":"GRAND BUILDING, CABINET",
+      "meaning":"GRAND BUILDING・CABINET",
       "id":"792"
    },
    "落":{
@@ -3991,12 +3991,12 @@ var database = {
    },
    "配":{
       "page":"232",
-      "meaning":"DISTRIBUTE, PUT IN ORDER",
+      "meaning":"DISTRIBUTE・PUT IN ORDER",
       "id":"799"
    },
    "酸":{
       "page":"232",
-      "meaning":"ACID, OXYGEN",
+      "meaning":"ACID・OXYGEN",
       "id":"800"
    },
    "猶":{
@@ -4026,7 +4026,7 @@ var database = {
    },
    "警":{
       "page":"234",
-      "meaning":"GUARD AGAINST, WARN",
+      "meaning":"GUARD AGAINST・WARN",
       "id":"806"
    },
    "驚":{
@@ -4046,7 +4046,7 @@ var database = {
    },
    "厳":{
       "page":"235",
-      "meaning":"SEVERE, SOLEMN",
+      "meaning":"SEVERE・SOLEMN",
       "id":"810"
    },
    "仏":{
@@ -4056,7 +4056,7 @@ var database = {
    },
    "払":{
       "page":"235",
-      "meaning":"CLEAR AWAY, PAY",
+      "meaning":"CLEAR AWAY・PAY",
       "id":"812"
    },
    "拡":{
@@ -4066,12 +4066,12 @@ var database = {
    },
    "可":{
       "page":"236",
-      "meaning":"POSSIBLE, APPROVE",
+      "meaning":"POSSIBLE・APPROVE",
       "id":"814"
    },
    "何":{
       "page":"236",
-      "meaning":"WHAT, HOW MANY",
+      "meaning":"WHAT・HOW MANY",
       "id":"815"
    },
    "苛":{
@@ -4131,7 +4131,7 @@ var database = {
    },
    "歌":{
       "page":"239",
-      "meaning":"SONG, JAPANESE POEM",
+      "meaning":"SONG・JAPANESE POEM",
       "id":"827"
    },
    "唄":{
@@ -4141,7 +4141,7 @@ var database = {
    },
    "負":{
       "page":"240",
-      "meaning":"BEAR, LOSE",
+      "meaning":"BEAR・LOSE",
       "id":"829"
    },
    "敗":{
@@ -4151,7 +4151,7 @@ var database = {
    },
    "責":{
       "page":"240",
-      "meaning":"RESPONSIBILITY, BLAME",
+      "meaning":"RESPONSIBILITY・BLAME",
       "id":"831"
    },
    "積":{
@@ -4161,7 +4161,7 @@ var database = {
    },
    "債":{
       "page":"241",
-      "meaning":"DEBT, BOND",
+      "meaning":"DEBT・BOND",
       "id":"833"
    },
    "漬":{
@@ -4191,7 +4191,7 @@ var database = {
    },
    "直":{
       "page":"242",
-      "meaning":"STRAIGHT, PUT STRAIGHT",
+      "meaning":"STRAIGHT・PUT STRAIGHT",
       "id":"839"
    },
    "植":{
@@ -4221,7 +4221,7 @@ var database = {
    },
    "州":{
       "page":"244",
-      "meaning":"STATE, SANDBAR",
+      "meaning":"STATE・SANDBAR",
       "id":"845"
    },
    "洲":{
@@ -4241,7 +4241,7 @@ var database = {
    },
    "断":{
       "page":"245",
-      "meaning":"CUT OFF, DECIDE",
+      "meaning":"CUT OFF・DECIDE",
       "id":"849"
    },
    "応":{
@@ -4251,12 +4251,12 @@ var database = {
    },
    "床":{
       "page":"245",
-      "meaning":"BED, FLOOR",
+      "meaning":"BED・FLOOR",
       "id":"851"
    },
    "麻":{
       "page":"245",
-      "meaning":"HEMP, BECOME NUMB",
+      "meaning":"HEMP・BECOME NUMB",
       "id":"852"
    },
    "歴":{
@@ -4271,7 +4271,7 @@ var database = {
    },
    "臨":{
       "page":"246",
-      "meaning":"ATTEND, CONFRONT",
+      "meaning":"ATTEND・CONFRONT",
       "id":"855"
    },
    "園":{
@@ -4286,7 +4286,7 @@ var database = {
    },
    "与":{
       "page":"247",
-      "meaning":"GIVE, TAKE PART IN",
+      "meaning":"GIVE・TAKE PART IN",
       "id":"858"
    },
    "写":{
@@ -4346,7 +4346,7 @@ var database = {
    },
    "徒":{
       "page":"250",
-      "meaning":"FOLLOWER, FELLOW(S), GOING ON FOOT",
+      "meaning":"FOLLOWER・FELLOW(S)・GOING ON FOOT",
       "id":"870"
    },
    "縦":{
@@ -4356,7 +4356,7 @@ var database = {
    },
    "延":{
       "page":"250",
-      "meaning":"EXTEND, POSTPONE",
+      "meaning":"EXTEND・POSTPONE",
       "id":"872"
    },
    "伸":{
@@ -4386,7 +4386,7 @@ var database = {
    },
    "庭":{
       "page":"252",
-      "meaning":"COURTYARD, GARDEN",
+      "meaning":"COURTYARD・GARDEN",
       "id":"878"
    },
    "艇":{
@@ -4396,12 +4396,12 @@ var database = {
    },
    "展":{
       "page":"252",
-      "meaning":"UNFOLD, DISPLAY",
+      "meaning":"UNFOLD・DISPLAY",
       "id":"880"
    },
    "殿":{
       "page":"253",
-      "meaning":"PALACE, FORMAL HONORIFIC TITLE",
+      "meaning":"PALACE・FORMAL HONORIFIC TITLE",
       "id":"881"
    },
    "異":{
@@ -4416,12 +4416,12 @@ var database = {
    },
    "累":{
       "page":"253",
-      "meaning":"CUMULATE, ENCUMBER",
+      "meaning":"CUMULATE・ENCUMBER",
       "id":"884"
    },
    "塁":{
       "page":"254",
-      "meaning":"BASE, SMALL FORT",
+      "meaning":"BASE・SMALL FORT",
       "id":"885"
    },
    "吏":{
@@ -4431,7 +4431,7 @@ var database = {
    },
    "使":{
       "page":"254",
-      "meaning":"USE, ENVOY",
+      "meaning":"USE・ENVOY",
       "id":"887"
    },
    "史":{
@@ -4441,12 +4441,12 @@ var database = {
    },
    "更":{
       "page":"255",
-      "meaning":"RENEW, FURTHERMORE, GROW LATE",
+      "meaning":"RENEW・FURTHERMORE・GROW LATE",
       "id":"889"
    },
    "便":{
       "page":"255",
-      "meaning":"CONVENIENT, POSTAL DELIVERY, EXCRETA",
+      "meaning":"CONVENIENT・POSTAL DELIVERY・EXCRETA",
       "id":"890"
    },
    "硬":{
@@ -4456,12 +4456,12 @@ var database = {
    },
    "能":{
       "page":"255",
-      "meaning":"ABILITY, NOH DRAMA",
+      "meaning":"ABILITY・NOH DRAMA",
       "id":"892"
    },
    "態":{
       "page":"256",
-      "meaning":"STATE, POSTURE",
+      "meaning":"STATE・POSTURE",
       "id":"893"
    },
    "熊":{
@@ -4476,7 +4476,7 @@ var database = {
    },
    "羅":{
       "page":"256",
-      "meaning":"LINE UP, PHONETIC [RA]",
+      "meaning":"LINE UP・PHONETIC [RA]",
       "id":"896"
    },
    "雲":{
@@ -4576,12 +4576,12 @@ var database = {
    },
    "横":{
       "page":"261",
-      "meaning":"SIDEWAYS, ARBITRARY",
+      "meaning":"SIDEWAYS・ARBITRARY",
       "id":"916"
    },
    "構":{
       "page":"262",
-      "meaning":"CONSTRUCT, MIND",
+      "meaning":"CONSTRUCT・MIND",
       "id":"917"
    },
    "講":{
@@ -4601,22 +4601,22 @@ var database = {
    },
    "仮":{
       "page":"263",
-      "meaning":"TEMPORARY, FAKE",
+      "meaning":"TEMPORARY・FAKE",
       "id":"921"
    },
    "片":{
       "page":"263",
-      "meaning":"FRAGMENT, ONE OF TWO",
+      "meaning":"FRAGMENT・ONE OF TWO",
       "id":"922"
    },
    "版":{
       "page":"263",
-      "meaning":"PRINTING PLATE, PUBLISHING",
+      "meaning":"PRINTING PLATE・PUBLISHING",
       "id":"923"
    },
    "板":{
       "page":"263",
-      "meaning":"BOARD, PLATE",
+      "meaning":"BOARD・PLATE",
       "id":"924"
    },
    "販":{
@@ -4626,12 +4626,12 @@ var database = {
    },
    "義":{
       "page":"264",
-      "meaning":"RIGHTEOUSNESS, MEANING, SUBSTITUTE",
+      "meaning":"RIGHTEOUSNESS・MEANING・SUBSTITUTE",
       "id":"926"
    },
    "議":{
       "page":"264",
-      "meaning":"DISCUSS, LEGISLATIVE BODY",
+      "meaning":"DISCUSS・LEGISLATIVE BODY",
       "id":"927"
    },
    "儀":{
@@ -4656,7 +4656,7 @@ var database = {
    },
    "指":{
       "page":"265",
-      "meaning":"FINGER, POINT",
+      "meaning":"FINGER・POINT",
       "id":"932"
    },
    "揮":{
@@ -4676,7 +4676,7 @@ var database = {
    },
    "策":{
       "page":"266",
-      "meaning":"SCHEME, MEASURE",
+      "meaning":"SCHEME・MEASURE",
       "id":"936"
    },
    "差":{
@@ -4686,7 +4686,7 @@ var database = {
    },
    "着":{
       "page":"267",
-      "meaning":"PUT ON, ARRIVE, STICK",
+      "meaning":"PUT ON・ARRIVE・STICK",
       "id":"938"
    },
    "看":{
@@ -4706,7 +4706,7 @@ var database = {
    },
    "論":{
       "page":"268",
-      "meaning":"ARGUE, THEORY",
+      "meaning":"ARGUE・THEORY",
       "id":"942"
    },
    "倫":{
@@ -4716,7 +4716,7 @@ var database = {
    },
    "輪":{
       "page":"268",
-      "meaning":"WHEEL, RING",
+      "meaning":"WHEEL・RING",
       "id":"944"
    },
    "輸":{
@@ -4741,12 +4741,12 @@ var database = {
    },
    "台":{
       "page":"270",
-      "meaning":"STAND, COUNTER FOR MACHINES AND VEHICLES, TAIWAN",
+      "meaning":"STAND・COUNTER FOR MACHINES AND VEHICLES・TAIWAN",
       "id":"949"
    },
    "治":{
       "page":"270",
-      "meaning":"GOVERN, CURE",
+      "meaning":"GOVERN・CURE",
       "id":"950"
    },
    "冶":{
@@ -4786,12 +4786,12 @@ var database = {
    },
    "了":{
       "page":"272",
-      "meaning":"FINISH, COMPREHEND",
+      "meaning":"FINISH・COMPREHEND",
       "id":"958"
    },
    "承":{
       "page":"272",
-      "meaning":"AGREE TO, RECEIVE",
+      "meaning":"AGREE TO・RECEIVE",
       "id":"959"
    },
    "蒸":{
@@ -4851,7 +4851,7 @@ var database = {
    },
    "急":{
       "page":"275",
-      "meaning":"URGENT, HURRY, SUDDEN",
+      "meaning":"URGENT・HURRY・SUDDEN",
       "id":"971"
    },
    "争":{
@@ -4861,7 +4861,7 @@ var database = {
    },
    "情":{
       "page":"276",
-      "meaning":"EMOTION, ACTUAL CONDITIONS",
+      "meaning":"EMOTION・ACTUAL CONDITIONS",
       "id":"973"
    },
    "清":{
@@ -4876,7 +4876,7 @@ var database = {
    },
    "精":{
       "page":"276",
-      "meaning":"REFINED, ESSENCE, SPIRIT",
+      "meaning":"REFINED・ESSENCE・SPIRIT",
       "id":"976"
    },
    "請":{
@@ -4911,7 +4911,7 @@ var database = {
    },
    "博":{
       "page":"278",
-      "meaning":"EXTENSIVE, DOCTOR, Ph.D.",
+      "meaning":"EXTENSIVE・DOCTOR・Ph.D.",
       "id":"983"
    },
    "縛":{
@@ -4941,7 +4941,7 @@ var database = {
    },
    "採":{
       "page":"280",
-      "meaning":"PICK, GATHER",
+      "meaning":"PICK・GATHER",
       "id":"989"
    },
    "彩":{
@@ -4971,7 +4971,7 @@ var database = {
    },
    "余":{
       "page":"281",
-      "meaning":"REMAINING, EXCESS",
+      "meaning":"REMAINING・EXCESS",
       "id":"995"
    },
    "除":{
@@ -5026,7 +5026,7 @@ var database = {
    },
    "兼":{
       "page":"284",
-      "meaning":"COMBINE, CANNOT",
+      "meaning":"COMBINE・CANNOT",
       "id":"1006"
    },
    "剰":{
@@ -5056,7 +5056,7 @@ var database = {
    },
    "華":{
       "page":"285",
-      "meaning":"FLOWER, MAGNIFICENT, CHINA",
+      "meaning":"FLOWER・MAGNIFICENT・CHINA",
       "id":"1012"
    },
    "侵":{
@@ -5106,12 +5106,12 @@ var database = {
    },
    "謝":{
       "page":"288",
-      "meaning":"THANK, APOLOGIZE",
+      "meaning":"THANK・APOLOGIZE",
       "id":"1022"
    },
    "討":{
       "page":"288",
-      "meaning":"STUDY, SUPPRESS BY ARMED FORCE",
+      "meaning":"STUDY・SUPPRESS BY ARMED FORCE",
       "id":"1023"
    },
    "訂":{
@@ -5151,7 +5151,7 @@ var database = {
    },
    "険":{
       "page":"290",
-      "meaning":"DANGEROUS, STEEP",
+      "meaning":"DANGEROUS・STEEP",
       "id":"1031"
    },
    "倹":{
@@ -5181,12 +5181,12 @@ var database = {
    },
    "容":{
       "page":"292",
-      "meaning":"COUNTENANCE, CONTAIN",
+      "meaning":"COUNTENANCE・CONTAIN",
       "id":"1037"
    },
    "溶":{
       "page":"292",
-      "meaning":"DISSOLVE, MELT",
+      "meaning":"DISSOLVE・MELT",
       "id":"1038"
    },
    "俗":{
@@ -5256,7 +5256,7 @@ var database = {
    },
    "弁":{
       "page":"295",
-      "meaning":"SPEAK, MANAGE, VALVE",
+      "meaning":"SPEAK・MANAGE・VALVE",
       "id":"1052"
    },
    "昇":{
@@ -5266,7 +5266,7 @@ var database = {
    },
    "登":{
       "page":"296",
-      "meaning":"ASCEND, ATTEND, REGISTER",
+      "meaning":"ASCEND・ATTEND・REGISTER",
       "id":"1054"
    },
    "澄":{
@@ -5276,7 +5276,7 @@ var database = {
    },
    "充":{
       "page":"296",
-      "meaning":"FILL, ALLOT",
+      "meaning":"FILL・ALLOT",
       "id":"1056"
    },
    "銃":{
@@ -5286,12 +5286,12 @@ var database = {
    },
    "統":{
       "page":"297",
-      "meaning":"UNITE, INTERCONNECTED SYSTEM",
+      "meaning":"UNITE・INTERCONNECTED SYSTEM",
       "id":"1058"
    },
    "流":{
       "page":"297",
-      "meaning":"FLOW, CURRENT, STYLE",
+      "meaning":"FLOW・CURRENT・STYLE",
       "id":"1059"
    },
    "硫":{
@@ -5326,12 +5326,12 @@ var database = {
    },
    "望":{
       "page":"299",
-      "meaning":"HOPE, LOOK AFAR",
+      "meaning":"HOPE・LOOK AFAR",
       "id":"1066"
    },
    "希":{
       "page":"299",
-      "meaning":"RARE, ASPIRE",
+      "meaning":"RARE・ASPIRE",
       "id":"1067"
    },
    "稀":{
@@ -5371,7 +5371,7 @@ var database = {
    },
    "弾":{
       "page":"301",
-      "meaning":"PROJECTILE, SPRING BACK",
+      "meaning":"PROJECTILE・SPRING BACK",
       "id":"1075"
    },
    "禅":{
@@ -5381,12 +5381,12 @@ var database = {
    },
    "系":{
       "page":"302",
-      "meaning":"SYSTEM, LINEAGE",
+      "meaning":"SYSTEM・LINEAGE",
       "id":"1077"
    },
    "係":{
       "page":"302",
-      "meaning":"CONNECT, PERSON IN CHARGE",
+      "meaning":"CONNECT・PERSON IN CHARGE",
       "id":"1078"
    },
    "孫":{
@@ -5406,12 +5406,12 @@ var database = {
    },
    "遍":{
       "page":"303",
-      "meaning":"ALL OVER, COUNTER FOR TIMES",
+      "meaning":"ALL OVER・COUNTER FOR TIMES",
       "id":"1082"
    },
    "編":{
       "page":"303",
-      "meaning":"COMPILE, KNIT",
+      "meaning":"COMPILE・KNIT",
       "id":"1083"
    },
    "篇":{
@@ -5441,7 +5441,7 @@ var database = {
    },
    "識":{
       "page":"305",
-      "meaning":"DISCRIMINATE, KNOWLEDGE",
+      "meaning":"DISCRIMINATE・KNOWLEDGE",
       "id":"1089"
    },
    "殉":{
@@ -5546,7 +5546,7 @@ var database = {
    },
    "照":{
       "page":"310",
-      "meaning":"ILLUMINATE, EXAMINE BY COMPARISON",
+      "meaning":"ILLUMINATE・EXAMINE BY COMPARISON",
       "id":"1110"
    },
    "超":{
@@ -5561,7 +5561,7 @@ var database = {
    },
    "趣":{
       "page":"311",
-      "meaning":"PURPORT, FLAVOR",
+      "meaning":"PURPORT・FLAVOR",
       "id":"1113"
    },
    "赴":{
@@ -5581,7 +5581,7 @@ var database = {
    },
    "掛":{
       "page":"312",
-      "meaning":"SET, HANG",
+      "meaning":"SET・HANG",
       "id":"1117"
    },
    "摘":{
@@ -5611,7 +5611,7 @@ var database = {
    },
    "授":{
       "page":"313",
-      "meaning":"CONFER, INSTRUCT",
+      "meaning":"CONFER・INSTRUCT",
       "id":"1123"
    },
    "援":{
@@ -5646,7 +5646,7 @@ var database = {
    },
    "権":{
       "page":"315",
-      "meaning":"RIGHT, POWER",
+      "meaning":"RIGHT・POWER",
       "id":"1130"
    },
    "歓":{
@@ -5666,12 +5666,12 @@ var database = {
    },
    "慢":{
       "page":"316",
-      "meaning":"ARROGANT, SLUGGISH",
+      "meaning":"ARROGANT・SLUGGISH",
       "id":"1134"
    },
    "漫":{
       "page":"316",
-      "meaning":"RAMBLING, COMIC",
+      "meaning":"RAMBLING・COMIC",
       "id":"1135"
    },
    "卯":{
@@ -5706,7 +5706,7 @@ var database = {
    },
    "疎":{
       "page":"318",
-      "meaning":"SCATTERED, ESTRANGED",
+      "meaning":"SCATTERED・ESTRANGED",
       "id":"1142"
    },
    "速":{
@@ -5716,7 +5716,7 @@ var database = {
    },
    "遅":{
       "page":"318",
-      "meaning":"SLOW, LATE",
+      "meaning":"SLOW・LATE",
       "id":"1144"
    },
    "辻":{
@@ -5746,7 +5746,7 @@ var database = {
    },
    "威":{
       "page":"320",
-      "meaning":"MIGHT, THREATEN BY FORCE",
+      "meaning":"MIGHT・THREATEN BY FORCE",
       "id":"1150"
    },
    "嚇":{
@@ -5776,7 +5776,7 @@ var database = {
    },
    "納":{
       "page":"321",
-      "meaning":"PAY, ACCEPT, PUT IN PLACE",
+      "meaning":"PAY・ACCEPT・PUT IN PLACE",
       "id":"1156"
    },
    "献":{
@@ -5806,7 +5806,7 @@ var database = {
    },
    "賃":{
       "page":"323",
-      "meaning":"WAGES, CHARGES",
+      "meaning":"WAGES・CHARGES",
       "id":"1162"
    },
    "貸":{
@@ -5816,7 +5816,7 @@ var database = {
    },
    "貨":{
       "page":"323",
-      "meaning":"MONEY, GOODS",
+      "meaning":"MONEY・GOODS",
       "id":"1164"
    },
    "資":{
@@ -5826,7 +5826,7 @@ var database = {
    },
    "賛":{
       "page":"324",
-      "meaning":"APPROVE OF, PRAISE",
+      "meaning":"APPROVE OF・PRAISE",
       "id":"1166"
    },
    "替":{
@@ -5836,7 +5836,7 @@ var database = {
    },
    "潜":{
       "page":"324",
-      "meaning":"SUBMERGE, LURK",
+      "meaning":"SUBMERGE・LURK",
       "id":"1168"
    },
    "貿":{
@@ -5846,7 +5846,7 @@ var database = {
    },
    "留":{
       "page":"325",
-      "meaning":"KEEP IN PLACE, STAY",
+      "meaning":"KEEP IN PLACE・STAY",
       "id":"1170"
    },
    "溜":{
@@ -5881,7 +5881,7 @@ var database = {
    },
    "貴":{
       "page":"327",
-      "meaning":"NOBLE, YOUR HONORABLE",
+      "meaning":"NOBLE・YOUR HONORABLE",
       "id":"1177"
    },
    "潰":{
@@ -5896,7 +5896,7 @@ var database = {
    },
    "遣":{
       "page":"327",
-      "meaning":"DISPATCH, USE",
+      "meaning":"DISPATCH・USE",
       "id":"1180"
    },
    "追":{
@@ -5916,7 +5916,7 @@ var database = {
    },
    "伯":{
       "page":"328",
-      "meaning":"OLDER SIBLING OF PARENT, COUNT",
+      "meaning":"OLDER SIBLING OF PARENT・COUNT",
       "id":"1184"
    },
    "拍":{
@@ -5966,7 +5966,7 @@ var database = {
    },
    "只":{
       "page":"331",
-      "meaning":"FREE OF CHARGE, JUST",
+      "meaning":"FREE OF CHARGE・JUST",
       "id":"1194"
    },
    "税":{
@@ -5981,12 +5981,12 @@ var database = {
    },
    "説":{
       "page":"332",
-      "meaning":"EXPLAIN, THEORY",
+      "meaning":"EXPLAIN・THEORY",
       "id":"1197"
    },
    "脱":{
       "page":"332",
-      "meaning":"REMOVE, ESCAPE FROM",
+      "meaning":"REMOVE・ESCAPE FROM",
       "id":"1198"
    },
    "閲":{
@@ -6041,7 +6041,7 @@ var database = {
    },
    "序":{
       "page":"335",
-      "meaning":"INTRODUCTORY PART, ORDER",
+      "meaning":"INTRODUCTORY PART・ORDER",
       "id":"1209"
    },
    "秩":{
@@ -6156,27 +6156,27 @@ var database = {
    },
    "帯":{
       "page":"340",
-      "meaning":"BELT, WEAR",
+      "meaning":"BELT・WEAR",
       "id":"1232"
    },
    "滞":{
       "page":"341",
-      "meaning":"STAGNATE, STAY",
+      "meaning":"STAGNATE・STAY",
       "id":"1233"
    },
    "渋":{
       "page":"341",
-      "meaning":"NOT GO SMOOTHLY, ASTRINGENT",
+      "meaning":"NOT GO SMOOTHLY・ASTRINGENT",
       "id":"1234"
    },
    "摂":{
       "page":"341",
-      "meaning":"TAKE IN, ACT AS REGENT",
+      "meaning":"TAKE IN・ACT AS REGENT",
       "id":"1235"
    },
    "為":{
       "page":"341",
-      "meaning":"DO, SAKE",
+      "meaning":"DO・SAKE",
       "id":"1236"
    },
    "偽":{
@@ -6186,12 +6186,12 @@ var database = {
    },
    "参":{
       "page":"342",
-      "meaning":"PARTICIPATE, VISIT A HOLY PLACE",
+      "meaning":"PARTICIPATE・VISIT A HOLY PLACE",
       "id":"1238"
    },
    "惨":{
       "page":"342",
-      "meaning":"MISERABLE, CRUEL",
+      "meaning":"MISERABLE・CRUEL",
       "id":"1239"
    },
    "呂":{
@@ -6206,12 +6206,12 @@ var database = {
    },
    "宮":{
       "page":"343",
-      "meaning":"ROYAL PALACE, SHINTO SHRINE",
+      "meaning":"ROYAL PALACE・SHINTO SHRINE",
       "id":"1242"
    },
    "営":{
       "page":"343",
-      "meaning":"OPERATE, BARRACKS",
+      "meaning":"OPERATE・BARRACKS",
       "id":"1243"
    },
    "蛍":{
@@ -6221,7 +6221,7 @@ var database = {
    },
    "栄":{
       "page":"344",
-      "meaning":"FLOURISH, GLORY",
+      "meaning":"FLOURISH・GLORY",
       "id":"1245"
    },
    "誉":{
@@ -6231,7 +6231,7 @@ var database = {
    },
    "挙":{
       "page":"344",
-      "meaning":"NOMINATE, NOTEWORTHY ACT, RAISE",
+      "meaning":"NOMINATE・NOTEWORTHY ACT・RAISE",
       "id":"1247"
    },
    "拳":{
@@ -6266,7 +6266,7 @@ var database = {
    },
    "径":{
       "page":"346",
-      "meaning":"PATH, DIAMETER",
+      "meaning":"PATH・DIAMETER",
       "id":"1254"
    },
    "怪":{
@@ -6281,7 +6281,7 @@ var database = {
    },
    "経":{
       "page":"347",
-      "meaning":"PASS THROUGH, MANAGE, SUTRA",
+      "meaning":"PASS THROUGH・MANAGE・SUTRA",
       "id":"1257"
    },
    "斉":{
@@ -6291,12 +6291,12 @@ var database = {
    },
    "斎":{
       "page":"347",
-      "meaning":"OBSERVE RELIGIOUS ABSTINENCE, STUDY",
+      "meaning":"OBSERVE RELIGIOUS ABSTINENCE・STUDY",
       "id":"1259"
    },
    "済":{
       "page":"347",
-      "meaning":"SETTLE, RELIEVE",
+      "meaning":"SETTLE・RELIEVE",
       "id":"1260"
    },
    "剤":{
@@ -6351,7 +6351,7 @@ var database = {
    },
    "絶":{
       "page":"350",
-      "meaning":"BREAK OFF, COME TO AN END, WITHOUT MATCH",
+      "meaning":"BREAK OFF・COME TO AN END・WITHOUT MATCH",
       "id":"1271"
    },
    "免":{
@@ -6381,7 +6381,7 @@ var database = {
    },
    "象":{
       "page":"352",
-      "meaning":"PHENOMENON, ELEPHANT",
+      "meaning":"PHENOMENON・ELEPHANT",
       "id":"1277"
    },
    "像":{
@@ -6431,7 +6431,7 @@ var database = {
    },
    "融":{
       "page":"354",
-      "meaning":"FUSE, FINANCE",
+      "meaning":"FUSE・FINANCE",
       "id":"1287"
    },
    "肖":{
@@ -6441,7 +6441,7 @@ var database = {
    },
    "消":{
       "page":"355",
-      "meaning":"EXTINGUISH, SPEND",
+      "meaning":"EXTINGUISH・SPEND",
       "id":"1289"
    },
    "硝":{
@@ -6506,7 +6506,7 @@ var database = {
    },
    "盆":{
       "page":"358",
-      "meaning":"TRAY, BON FESTIVAL",
+      "meaning":"TRAY・BON FESTIVAL",
       "id":"1302"
    },
    "蓋":{
@@ -6536,7 +6536,7 @@ var database = {
    },
    "揚":{
       "page":"359",
-      "meaning":"RAISE HIGH, FRY",
+      "meaning":"RAISE HIGH・FRY",
       "id":"1308"
    },
    "暢":{
@@ -6546,12 +6546,12 @@ var database = {
    },
    "陽":{
       "page":"360",
-      "meaning":"SUN, POSITIVE",
+      "meaning":"SUN・POSITIVE",
       "id":"1310"
    },
    "陰":{
       "page":"360",
-      "meaning":"SHADOW, NEGATIVE",
+      "meaning":"SHADOW・NEGATIVE",
       "id":"1311"
    },
    "隠":{
@@ -6561,7 +6561,7 @@ var database = {
    },
    "穏":{
       "page":"361",
-      "meaning":"CALM, MILD",
+      "meaning":"CALM・MILD",
       "id":"1313"
    },
    "穂":{
@@ -6581,12 +6581,12 @@ var database = {
    },
    "裁":{
       "page":"362",
-      "meaning":"CUT OUT, JUDGE",
+      "meaning":"CUT OUT・JUDGE",
       "id":"1317"
    },
    "載":{
       "page":"362",
-      "meaning":"LOAD, PUT IN PRINT",
+      "meaning":"LOAD・PUT IN PRINT",
       "id":"1318"
    },
    "栽":{
@@ -6646,7 +6646,7 @@ var database = {
    },
    "寄":{
       "page":"365",
-      "meaning":"CONTRIBUTE, DRAW NEAR",
+      "meaning":"CONTRIBUTE・DRAW NEAR",
       "id":"1330"
    },
    "騎":{
@@ -6686,12 +6686,12 @@ var database = {
    },
    "漠":{
       "page":"367",
-      "meaning":"DESERT, OBSCURE",
+      "meaning":"DESERT・OBSCURE",
       "id":"1338"
    },
    "幕":{
       "page":"367",
-      "meaning":"CURTAIN, SHOGUNATE",
+      "meaning":"CURTAIN・SHOGUNATE",
       "id":"1339"
    },
    "墓":{
@@ -6706,7 +6706,7 @@ var database = {
    },
    "暮":{
       "page":"368",
-      "meaning":"DUSK, LIVE",
+      "meaning":"DUSK・LIVE",
       "id":"1342"
    },
    "慕":{
@@ -6726,7 +6726,7 @@ var database = {
    },
    "暴":{
       "page":"369",
-      "meaning":"VIOLENT, DISCLOSE",
+      "meaning":"VIOLENT・DISCLOSE",
       "id":"1346"
    },
    "爆":{
@@ -6786,7 +6786,7 @@ var database = {
    },
    "僕":{
       "page":"372",
-      "meaning":"I, MANSERVANT",
+      "meaning":"I・MANSERVANT",
       "id":"1358"
    },
    "撲":{
@@ -6821,17 +6821,17 @@ var database = {
    },
    "閑":{
       "page":"374",
-      "meaning":"LEISURE, QUIET",
+      "meaning":"LEISURE・QUIET",
       "id":"1365"
    },
    "脈":{
       "page":"374",
-      "meaning":"VEIN, PULSE",
+      "meaning":"VEIN・PULSE",
       "id":"1366"
    },
    "派":{
       "page":"374",
-      "meaning":"SECT, DISPATCH",
+      "meaning":"SECT・DISPATCH",
       "id":"1367"
    },
    "缶":{
@@ -6866,7 +6866,7 @@ var database = {
    },
    "陣":{
       "page":"376",
-      "meaning":"BATTLE FORMATION, CAMP",
+      "meaning":"BATTLE FORMATION・CAMP",
       "id":"1374"
    },
    "陥":{
@@ -6911,7 +6911,7 @@ var database = {
    },
    "密":{
       "page":"378",
-      "meaning":"CLOSE, SECRET",
+      "meaning":"CLOSE・SECRET",
       "id":"1383"
    },
    "秘":{
@@ -6966,7 +6966,7 @@ var database = {
    },
    "担":{
       "page":"381",
-      "meaning":"BEAR ON SHOULDER, UNDERTAKE",
+      "meaning":"BEAR ON SHOULDER・UNDERTAKE",
       "id":"1394"
    },
    "亘":{
@@ -7031,7 +7031,7 @@ var database = {
    },
    "君":{
       "page":"384",
-      "meaning":"RULER, FAMILIAR TITLE, YOU",
+      "meaning":"RULER・FAMILIAR TITLE・YOU",
       "id":"1407"
    },
    "群":{
@@ -7051,7 +7051,7 @@ var database = {
    },
    "邦":{
       "page":"385",
-      "meaning":"STATE, JAPAN",
+      "meaning":"STATE・JAPAN",
       "id":"1411"
    },
    "郊":{
@@ -7066,7 +7066,7 @@ var database = {
    },
    "絞":{
       "page":"386",
-      "meaning":"STRANGLE, WRING",
+      "meaning":"STRANGLE・WRING",
       "id":"1414"
    },
    "搾":{
@@ -7091,7 +7091,7 @@ var database = {
    },
    "締":{
       "page":"387",
-      "meaning":"CONCLUDE, TIGHTEN",
+      "meaning":"CONCLUDE・TIGHTEN",
       "id":"1419"
    },
    "諦":{
@@ -7111,7 +7111,7 @@ var database = {
    },
    "亭":{
       "page":"388",
-      "meaning":"INN, PSEUDONYM SUFFIX",
+      "meaning":"INN・PSEUDONYM SUFFIX",
       "id":"1423"
    },
    "停":{
@@ -7146,7 +7146,7 @@ var database = {
    },
    "階":{
       "page":"390",
-      "meaning":"FLOOR, RANK",
+      "meaning":"FLOOR・RANK",
       "id":"1430"
    },
    "陛":{
@@ -7166,7 +7166,7 @@ var database = {
    },
    "勢":{
       "page":"391",
-      "meaning":"POWER, CONDITION",
+      "meaning":"POWER・CONDITION",
       "id":"1434"
    },
    "熱":{
@@ -7221,7 +7221,7 @@ var database = {
    },
    "署":{
       "page":"394",
-      "meaning":"GOVERNMENT OFFICE, SIGN ONE'S NAME",
+      "meaning":"GOVERNMENT OFFICE・SIGN ONE'S NAME",
       "id":"1445"
    },
    "曙":{
@@ -7246,7 +7246,7 @@ var database = {
    },
    "緒":{
       "page":"395",
-      "meaning":"OUTSET, LINE",
+      "meaning":"OUTSET・LINE",
       "id":"1450"
    },
    "翁":{
@@ -7291,7 +7291,7 @@ var database = {
    },
    "章":{
       "page":"397",
-      "meaning":"CHAPTER, BADGE",
+      "meaning":"CHAPTER・BADGE",
       "id":"1459"
    },
    "彰":{
@@ -7306,7 +7306,7 @@ var database = {
    },
    "辛":{
       "page":"398",
-      "meaning":"PUNGENT, HARD",
+      "meaning":"PUNGENT・HARD",
       "id":"1462"
    },
    "宰":{
@@ -7321,7 +7321,7 @@ var database = {
    },
    "辞":{
       "page":"399",
-      "meaning":"WORD, RESIGN",
+      "meaning":"WORD・RESIGN",
       "id":"1465"
    },
    "壁":{
@@ -7346,22 +7346,22 @@ var database = {
    },
    "幸":{
       "page":"400",
-      "meaning":"GOOD FORTUNE, HAPPINESS",
+      "meaning":"GOOD FORTUNE・HAPPINESS",
       "id":"1470"
    },
    "服":{
       "page":"400",
-      "meaning":"CLOTHES, SUBMIT",
+      "meaning":"CLOTHES・SUBMIT",
       "id":"1471"
    },
    "報":{
       "page":"400",
-      "meaning":"REPORT, REQUITE",
+      "meaning":"REPORT・REQUITE",
       "id":"1472"
    },
    "執":{
       "page":"401",
-      "meaning":"EXECUTE, SEIZE",
+      "meaning":"EXECUTE・SEIZE",
       "id":"1473"
    },
    "摯":{
@@ -7371,22 +7371,22 @@ var database = {
    },
    "達":{
       "page":"401",
-      "meaning":"ATTAIN, PLURAL SUFFIX",
+      "meaning":"ATTAIN・PLURAL SUFFIX",
       "id":"1475"
    },
    "朗":{
       "page":"401",
-      "meaning":"CHEERFUL, CLEAR",
+      "meaning":"CHEERFUL・CLEAR",
       "id":"1476"
    },
    "浪":{
       "page":"402",
-      "meaning":"BILLOW, ROAM",
+      "meaning":"BILLOW・ROAM",
       "id":"1477"
    },
    "呉":{
       "page":"402",
-      "meaning":"KINGDOM OF WU, GIVE",
+      "meaning":"KINGDOM OF WU・GIVE",
       "id":"1478"
    },
    "娯":{
@@ -7441,7 +7441,7 @@ var database = {
    },
    "蘭":{
       "page":"405",
-      "meaning":"ORCHID, HOLLAND",
+      "meaning":"ORCHID・HOLLAND",
       "id":"1489"
    },
    "欄":{
@@ -7456,12 +7456,12 @@ var database = {
    },
    "淵":{
       "page":"405",
-      "meaning":"EDGE, DEEP POOL",
+      "meaning":"EDGE・DEEP POOL",
       "id":"1492"
    },
    "滑":{
       "page":"406",
-      "meaning":"SLIDE, SMOOTH",
+      "meaning":"SLIDE・SMOOTH",
       "id":"1493"
    },
    "稽":{
@@ -7516,17 +7516,17 @@ var database = {
    },
    "沢":{
       "page":"408",
-      "meaning":"SWAMP, ABUNDANT",
+      "meaning":"SWAMP・ABUNDANT",
       "id":"1504"
    },
    "訳":{
       "page":"409",
-      "meaning":"TRANSLATE, SENSE",
+      "meaning":"TRANSLATE・SENSE",
       "id":"1505"
    },
    "釈":{
       "page":"409",
-      "meaning":"ELUCIDATE, RELEASE",
+      "meaning":"ELUCIDATE・RELEASE",
       "id":"1506"
    },
    "敷":{
@@ -7546,7 +7546,7 @@ var database = {
    },
    "審":{
       "page":"410",
-      "meaning":"EXAMINE CAREFULLY, TRY",
+      "meaning":"EXAMINE CAREFULLY・TRY",
       "id":"1510"
    },
    "藩":{
@@ -7556,7 +7556,7 @@ var database = {
    },
    "翻":{
       "page":"410",
-      "meaning":"TURN OVER, RENDER IN ANOTHER FORM",
+      "meaning":"TURN OVER・RENDER IN ANOTHER FORM",
       "id":"1512"
    },
    "翔":{
@@ -7596,12 +7596,12 @@ var database = {
    },
    "畳":{
       "page":"412",
-      "meaning":"TATAMI (straw mat), FOLD UP",
+      "meaning":"TATAMI (straw mat)・FOLD UP",
       "id":"1520"
    },
    "甲":{
       "page":"413",
-      "meaning":"SHELL, FIRST IN A SERIES",
+      "meaning":"SHELL・FIRST IN A SERIES",
       "id":"1521"
    },
    "乙":{
@@ -7616,7 +7616,7 @@ var database = {
    },
    "柄":{
       "page":"413",
-      "meaning":"CHARACTER, STATUS",
+      "meaning":"CHARACTER・STATUS",
       "id":"1524"
    },
    "押":{
@@ -7636,12 +7636,12 @@ var database = {
    },
    "届":{
       "page":"414",
-      "meaning":"DELIVER, REACH",
+      "meaning":"DELIVER・REACH",
       "id":"1528"
    },
    "宙":{
       "page":"415",
-      "meaning":"SPACE, MIDAIR",
+      "meaning":"SPACE・MIDAIR",
       "id":"1529"
    },
    "笛":{
@@ -7716,7 +7716,7 @@ var database = {
    },
    "寿":{
       "page":"418",
-      "meaning":"LONGEVITY, CONGRATULATIONS",
+      "meaning":"LONGEVITY・CONGRATULATIONS",
       "id":"1544"
    },
    "鋳":{
@@ -7731,17 +7731,17 @@ var database = {
    },
    "鏡":{
       "page":"419",
-      "meaning":"MIRROR, OPTICAL INSTRUMENT",
+      "meaning":"MIRROR・OPTICAL INSTRUMENT",
       "id":"1547"
    },
    "境":{
       "page":"419",
-      "meaning":"BOUNDARY, SITUATION",
+      "meaning":"BOUNDARY・SITUATION",
       "id":"1548"
    },
    "環":{
       "page":"420",
-      "meaning":"RING, SURROUND",
+      "meaning":"RING・SURROUND",
       "id":"1549"
    },
    "還":{
@@ -7821,7 +7821,7 @@ var database = {
    },
    "窒":{
       "page":"424",
-      "meaning":"CHOKE, NITROGEN",
+      "meaning":"CHOKE・NITROGEN",
       "id":"1565"
    },
    "窃":{
@@ -7911,7 +7911,7 @@ var database = {
    },
    "残":{
       "page":"428",
-      "meaning":"LEAVE BEHIND, RUTHLESS",
+      "meaning":"LEAVE BEHIND・RUTHLESS",
       "id":"1583"
    },
    "桟":{
@@ -7941,17 +7941,17 @@ var database = {
    },
    "壮":{
       "page":"430",
-      "meaning":"VIGOROUS, GRAND",
+      "meaning":"VIGOROUS・GRAND",
       "id":"1589"
    },
    "荘":{
       "page":"430",
-      "meaning":"VILLA, DIGNIFIED",
+      "meaning":"VILLA・DIGNIFIED",
       "id":"1590"
    },
    "装":{
       "page":"430",
-      "meaning":"DRESS, FIT OUT",
+      "meaning":"DRESS・FIT OUT",
       "id":"1591"
    },
    "冥":{
@@ -8001,7 +8001,7 @@ var database = {
    },
    "舗":{
       "page":"433",
-      "meaning":"PAVE, SHOP",
+      "meaning":"PAVE・SHOP",
       "id":"1601"
    },
    "掴":{
@@ -8021,7 +8021,7 @@ var database = {
    },
    "筆":{
       "page":"434",
-      "meaning":"BRUSH, WRITING",
+      "meaning":"BRUSH・WRITING",
       "id":"1605"
    },
    "津":{
@@ -8031,7 +8031,7 @@ var database = {
    },
    "律":{
       "page":"434",
-      "meaning":"LAW, RHYTHM",
+      "meaning":"LAW・RHYTHM",
       "id":"1607"
    },
    "逮":{
@@ -8061,7 +8061,7 @@ var database = {
    },
    "粛":{
       "page":"436",
-      "meaning":"PURGE, HUSHED",
+      "meaning":"PURGE・HUSHED",
       "id":"1613"
    },
    "繍":{
@@ -8206,7 +8206,7 @@ var database = {
    },
    "拝":{
       "page":"443",
-      "meaning":"WORSHIP, HUMBLY",
+      "meaning":"WORSHIP・HUMBLY",
       "id":"1642"
    },
    "耕":{
@@ -8231,7 +8231,7 @@ var database = {
    },
    "炭":{
       "page":"444",
-      "meaning":"COAL, CHARCOAL, CARBON",
+      "meaning":"COAL・CHARCOAL・CARBON",
       "id":"1647"
    },
    "岸":{
@@ -8266,7 +8266,7 @@ var database = {
    },
    "焦":{
       "page":"446",
-      "meaning":"SCORCH, BE IMPATIENT",
+      "meaning":"SCORCH・BE IMPATIENT",
       "id":"1654"
    },
    "礁":{
@@ -8286,7 +8286,7 @@ var database = {
    },
    "隻":{
       "page":"447",
-      "meaning":"ONE OF A PAIR, COUNTER FOR SHIPS",
+      "meaning":"ONE OF A PAIR・COUNTER FOR SHIPS",
       "id":"1658"
    },
    "獲":{
@@ -8331,7 +8331,7 @@ var database = {
    },
    "懐":{
       "page":"449",
-      "meaning":"BOSOM, LONG FOR",
+      "meaning":"BOSOM・LONG FOR",
       "id":"1667"
    },
    "徳":{
@@ -8371,12 +8371,12 @@ var database = {
    },
    "候":{
       "page":"451",
-      "meaning":"SEASON, SEASONAL WEATHER",
+      "meaning":"SEASON・SEASONAL WEATHER",
       "id":"1675"
    },
    "修":{
       "page":"451",
-      "meaning":"CULTIVATE, REPAIR",
+      "meaning":"CULTIVATE・REPAIR",
       "id":"1676"
    },
    "悠":{
@@ -8391,7 +8391,7 @@ var database = {
    },
    "提":{
       "page":"452",
-      "meaning":"PRESENT, CARRY IN HAND",
+      "meaning":"PRESENT・CARRY IN HAND",
       "id":"1679"
    },
    "堤":{
@@ -8401,7 +8401,7 @@ var database = {
    },
    "題":{
       "page":"453",
-      "meaning":"HEADING, TOPIC, PROBLEM",
+      "meaning":"HEADING・TOPIC・PROBLEM",
       "id":"1681"
    },
    "匙":{
@@ -8486,7 +8486,7 @@ var database = {
    },
    "折":{
       "page":"457",
-      "meaning":"BREAK (OFF), FOLD",
+      "meaning":"BREAK (OFF)・FOLD",
       "id":"1698"
    },
    "挫":{
@@ -8511,7 +8511,7 @@ var database = {
    },
    "哲":{
       "page":"458",
-      "meaning":"WISE, PHILOSOPHY",
+      "meaning":"WISE・PHILOSOPHY",
       "id":"1703"
    },
    "斬":{
@@ -8536,7 +8536,7 @@ var database = {
    },
    "訴":{
       "page":"459",
-      "meaning":"APPEAL TO, SUE",
+      "meaning":"APPEAL TO・SUE",
       "id":"1708"
    },
    "訟":{
@@ -8556,7 +8556,7 @@ var database = {
    },
    "極":{
       "page":"460",
-      "meaning":"EXTREME, POLE",
+      "meaning":"EXTREME・POLE",
       "id":"1712"
    },
    "函":{
@@ -8566,7 +8566,7 @@ var database = {
    },
    "探":{
       "page":"461",
-      "meaning":"PROBE, LOOK FOR",
+      "meaning":"PROBE・LOOK FOR",
       "id":"1714"
    },
    "深":{
@@ -8636,7 +8636,7 @@ var database = {
    },
    "恩":{
       "page":"464",
-      "meaning":"GRACE, DEBT OF GRATITUDE",
+      "meaning":"GRACE・DEBT OF GRATITUDE",
       "id":"1728"
    },
    "菌":{
@@ -8646,7 +8646,7 @@ var database = {
    },
    "漢":{
       "page":"465",
-      "meaning":"CHINESE HAN DYNASTY, FELLOW",
+      "meaning":"CHINESE HAN DYNASTY・FELLOW",
       "id":"1730"
    },
    "嘆":{
@@ -8681,12 +8681,12 @@ var database = {
    },
    "牢":{
       "page":"467",
-      "meaning":"PRISON, HARDNESS",
+      "meaning":"PRISON・HARDNESS",
       "id":"1737"
    },
    "啓":{
       "page":"467",
-      "meaning":"ENLIGHTEN, ADDRESS RESPECTFULLY",
+      "meaning":"ENLIGHTEN・ADDRESS RESPECTFULLY",
       "id":"1738"
    },
    "庶":{
@@ -8706,7 +8706,7 @@ var database = {
    },
    "雀":{
       "page":"468",
-      "meaning":"SPARROW, MAHJONG",
+      "meaning":"SPARROW・MAHJONG",
       "id":"1742"
    },
    "劣":{
@@ -8811,7 +8811,7 @@ var database = {
    },
    "吸":{
       "page":"473",
-      "meaning":"SUCK, BREATHE IN",
+      "meaning":"SUCK・BREATHE IN",
       "id":"1763"
    },
    "吹":{
@@ -8921,7 +8921,7 @@ var database = {
    },
    "透":{
       "page":"479",
-      "meaning":"PASS THROUGH, SEE THROUGH",
+      "meaning":"PASS THROUGH・SEE THROUGH",
       "id":"1785"
    },
    "携":{
@@ -8931,7 +8931,7 @@ var database = {
    },
    "雄":{
       "page":"479",
-      "meaning":"MALE, HEROIC",
+      "meaning":"MALE・HEROIC",
       "id":"1787"
    },
    "雌":{
@@ -8991,7 +8991,7 @@ var database = {
    },
    "勘":{
       "page":"482",
-      "meaning":"CHECK, INTUITIVE PERCEPTION",
+      "meaning":"CHECK・INTUITIVE PERCEPTION",
       "id":"1799"
    },
    "堪":{
@@ -9041,7 +9041,7 @@ var database = {
    },
    "操":{
       "page":"485",
-      "meaning":"MANIPULATE, FIDELITY",
+      "meaning":"MANIPULATE・FIDELITY",
       "id":"1809"
    },
    "燥":{
@@ -9051,7 +9051,7 @@ var database = {
    },
    "繰":{
       "page":"485",
-      "meaning":"REEL, SHIFT ONWARD",
+      "meaning":"REEL・SHIFT ONWARD",
       "id":"1811"
    },
    "藻":{
@@ -9131,7 +9131,7 @@ var database = {
    },
    "兆":{
       "page":"489",
-      "meaning":"SIGN, TRILLION",
+      "meaning":"SIGN・TRILLION",
       "id":"1827"
    },
    "眺":{
@@ -9181,7 +9181,7 @@ var database = {
    },
    "封":{
       "page":"492",
-      "meaning":"SEAL, ENFEOFF",
+      "meaning":"SEAL・ENFEOFF",
       "id":"1837"
    },
    "筒":{
@@ -9191,7 +9191,7 @@ var database = {
    },
    "管":{
       "page":"492",
-      "meaning":"PIPE, EXERCISE CONTROL",
+      "meaning":"PIPE・EXERCISE CONTROL",
       "id":"1839"
    },
    "棺":{
@@ -9241,7 +9241,7 @@ var database = {
    },
    "襲":{
       "page":"495",
-      "meaning":"RAID, INHERIT",
+      "meaning":"RAID・INHERIT",
       "id":"1849"
    },
    "伏":{
@@ -9281,7 +9281,7 @@ var database = {
    },
    "忽":{
       "page":"497",
-      "meaning":"SUDDENLY, CARELESS",
+      "meaning":"SUDDENLY・CARELESS",
       "id":"1857"
    },
    "惚":{
@@ -9296,7 +9296,7 @@ var database = {
    },
    "哀":{
       "page":"497",
-      "meaning":"SORROW, PITY",
+      "meaning":"SORROW・PITY",
       "id":"1860"
    },
    "衰":{
@@ -9311,17 +9311,17 @@ var database = {
    },
    "喪":{
       "page":"498",
-      "meaning":"MOURNING, LOSS",
+      "meaning":"MOURNING・LOSS",
       "id":"1863"
    },
    "忌":{
       "page":"498",
-      "meaning":"MOURNING, ABHOR",
+      "meaning":"MOURNING・ABHOR",
       "id":"1864"
    },
    "卓":{
       "page":"499",
-      "meaning":"TABLE, PROMINENT",
+      "meaning":"TABLE・PROMINENT",
       "id":"1865"
    },
    "悼":{
@@ -9346,12 +9346,12 @@ var database = {
    },
    "覆":{
       "page":"500",
-      "meaning":"COVER, OVERTURN",
+      "meaning":"COVER・OVERTURN",
       "id":"1870"
    },
    "履":{
       "page":"500",
-      "meaning":"FULFILL, PUT ON FOOTWEAR",
+      "meaning":"FULFILL・PUT ON FOOTWEAR",
       "id":"1871"
    },
    "属":{
@@ -9366,7 +9366,7 @@ var database = {
    },
    "偶":{
       "page":"501",
-      "meaning":"BY CHANCE, COUPLE",
+      "meaning":"BY CHANCE・COUPLE",
       "id":"1874"
    },
    "隅":{
@@ -9381,7 +9381,7 @@ var database = {
    },
    "遇":{
       "page":"502",
-      "meaning":"TREAT, ENCOUNTER",
+      "meaning":"TREAT・ENCOUNTER",
       "id":"1877"
    },
    "愚":{
@@ -9411,7 +9411,7 @@ var database = {
    },
    "坊":{
       "page":"503",
-      "meaning":"SONNY BOY, COLLOQUIAL PERSON SUFFIX",
+      "meaning":"SONNY BOY・COLLOQUIAL PERSON SUFFIX",
       "id":"1883"
    },
    "傍":{
@@ -9426,7 +9426,7 @@ var database = {
    },
    "房":{
       "page":"504",
-      "meaning":"CHAMBER, TUFT",
+      "meaning":"CHAMBER・TUFT",
       "id":"1886"
    },
    "扇":{
@@ -9531,7 +9531,7 @@ var database = {
    },
    "露":{
       "page":"509",
-      "meaning":"DEW, EXPOSE",
+      "meaning":"DEW・EXPOSE",
       "id":"1907"
    },
    "霜":{
@@ -9561,7 +9561,7 @@ var database = {
    },
    "頂":{
       "page":"511",
-      "meaning":"SUMMIT, RECEIVE HUMBLY",
+      "meaning":"SUMMIT・RECEIVE HUMBLY",
       "id":"1913"
    },
    "戴":{
@@ -9576,7 +9576,7 @@ var database = {
    },
    "頃":{
       "page":"511",
-      "meaning":"TIME, ABOUT",
+      "meaning":"TIME・ABOUT",
       "id":"1916"
    },
    "傾":{
@@ -9621,7 +9621,7 @@ var database = {
    },
    "順":{
       "page":"514",
-      "meaning":"ORDER, OBEY",
+      "meaning":"ORDER・OBEY",
       "id":"1925"
    },
    "馴":{
@@ -9641,12 +9641,12 @@ var database = {
    },
    "額":{
       "page":"515",
-      "meaning":"AMOUNT, PICTURE FRAME, FOREHEAD",
+      "meaning":"AMOUNT・PICTURE FRAME・FOREHEAD",
       "id":"1929"
    },
    "頼":{
       "page":"515",
-      "meaning":"RELY ON, ASK",
+      "meaning":"RELY ON・ASK",
       "id":"1930"
    },
    "瀬":{
@@ -9696,12 +9696,12 @@ var database = {
    },
    "疾":{
       "page":"517",
-      "meaning":"DISEASE, FAST",
+      "meaning":"DISEASE・FAST",
       "id":"1940"
    },
    "痴":{
       "page":"518",
-      "meaning":"STUPID, INFATUATED",
+      "meaning":"STUPID・INFATUATED",
       "id":"1941"
    },
    "疫":{
@@ -9751,7 +9751,7 @@ var database = {
    },
    "抜":{
       "page":"520",
-      "meaning":"PULL OUT, STAND OUT",
+      "meaning":"PULL OUT・STAND OUT",
       "id":"1951"
    },
    "控":{
@@ -9801,7 +9801,7 @@ var database = {
    },
    "寡":{
       "page":"523",
-      "meaning":"FEW, WIDOW(ER)",
+      "meaning":"FEW・WIDOW(ER)",
       "id":"1961"
    },
    "賓":{
@@ -9876,7 +9876,7 @@ var database = {
    },
    "炎":{
       "page":"526",
-      "meaning":"FLAME, INFLAMMATION",
+      "meaning":"FLAME・INFLAMMATION",
       "id":"1976"
    },
    "談":{
@@ -9926,7 +9926,7 @@ var database = {
    },
    "胎":{
       "page":"529",
-      "meaning":"WOMB, FETUS",
+      "meaning":"WOMB・FETUS",
       "id":"1986"
    },
    "腰":{
@@ -9961,7 +9961,7 @@ var database = {
    },
    "脇":{
       "page":"531",
-      "meaning":"ARMPIT, ASIDE",
+      "meaning":"ARMPIT・ASIDE",
       "id":"1993"
    },
    "脂":{
@@ -10011,7 +10011,7 @@ var database = {
    },
    "虚":{
       "page":"533",
-      "meaning":"EMPTY, FALSE",
+      "meaning":"EMPTY・FALSE",
       "id":"2003"
    },
    "虜":{
@@ -10036,7 +10036,7 @@ var database = {
    },
    "繊":{
       "page":"534",
-      "meaning":"FINE, FIBER",
+      "meaning":"FINE・FIBER",
       "id":"2008"
    },
    "緻":{
@@ -10096,7 +10096,7 @@ var database = {
    },
    "張":{
       "page":"537",
-      "meaning":"SPREAD, STRAIN",
+      "meaning":"SPREAD・STRAIN",
       "id":"2020"
    },
    "帳":{
@@ -10136,7 +10136,7 @@ var database = {
    },
    "鑑":{
       "page":"539",
-      "meaning":"APPRAISE, REFER TO",
+      "meaning":"APPRAISE・REFER TO",
       "id":"2028"
    },
    "艦":{
@@ -10171,7 +10171,7 @@ var database = {
    },
    "緊":{
       "page":"541",
-      "meaning":"TIGHTEN, EXIGENT",
+      "meaning":"TIGHTEN・EXIGENT",
       "id":"2035"
    },
    "勃":{
@@ -10201,7 +10201,7 @@ var database = {
    },
    "歳":{
       "page":"543",
-      "meaning":"YEAR, -YEARS OLD",
+      "meaning":"YEAR・-YEARS OLD",
       "id":"2041"
    },
    "戚":{
@@ -10226,12 +10226,12 @@ var database = {
    },
    "督":{
       "page":"544",
-      "meaning":"SUPERVISE, COMMANDER",
+      "meaning":"SUPERVISE・COMMANDER",
       "id":"2046"
    },
    "奴":{
       "page":"544",
-      "meaning":"SLAVE, GUY",
+      "meaning":"SLAVE・GUY",
       "id":"2047"
    },
    "努":{
@@ -10251,7 +10251,7 @@ var database = {
    },
    "款":{
       "page":"545",
-      "meaning":"ARTICLE, FRIENDLY RELATIONS",
+      "meaning":"ARTICLE・FRIENDLY RELATIONS",
       "id":"2051"
    },
    "殻":{
@@ -10276,7 +10276,7 @@ var database = {
    },
    "廉":{
       "page":"546",
-      "meaning":"HONEST, CHEAP",
+      "meaning":"HONEST・CHEAP",
       "id":"2056"
    },
    "鎌":{
@@ -10321,7 +10321,7 @@ var database = {
    },
    "鉱":{
       "page":"549",
-      "meaning":"ORE, MINE",
+      "meaning":"ORE・MINE",
       "id":"2065"
    },
    "銅":{
@@ -10351,7 +10351,7 @@ var database = {
    },
    "綱":{
       "page":"550",
-      "meaning":"ROPE, MAIN POINTS",
+      "meaning":"ROPE・MAIN POINTS",
       "id":"2071"
    },
    "網":{
@@ -10396,7 +10396,7 @@ var database = {
    },
    "錠":{
       "page":"552",
-      "meaning":"LOCK, PILL",
+      "meaning":"LOCK・PILL",
       "id":"2080"
    },
    "綻":{
@@ -10701,7 +10701,7 @@ var database = {
    },
    "鬱":{
       "page":"568",
-      "meaning":"DEPRESSION, CONGESTED",
+      "meaning":"DEPRESSION・CONGESTED",
       "id":"2141"
    },
    "弦":{
@@ -10746,7 +10746,7 @@ var database = {
    },
    "推":{
       "page":"570",
-      "meaning":"INFER, PUSH FORWARD",
+      "meaning":"INFER・PUSH FORWARD",
       "id":"2150"
    },
    "堆":{
@@ -10756,7 +10756,7 @@ var database = {
    },
    "椎":{
       "page":"570",
-      "meaning":"SPINE, CHINQUAPIN",
+      "meaning":"SPINE・CHINQUAPIN",
       "id":"2152"
    },
    "脊":{
@@ -10781,7 +10781,7 @@ var database = {
    },
    "鳴":{
       "page":"572",
-      "meaning":"CRY, SOUND",
+      "meaning":"CRY・SOUND",
       "id":"2157"
    },
    "亥":{
@@ -10791,7 +10791,7 @@ var database = {
    },
    "刻":{
       "page":"572",
-      "meaning":"ENGRAVE, POINT IN TIME",
+      "meaning":"ENGRAVE・POINT IN TIME",
       "id":"2159"
    },
    "劾":{
@@ -10861,7 +10861,7 @@ var database = {
    },
    "餌":{
       "page":"576",
-      "meaning":"FEED, BAIT",
+      "meaning":"FEED・BAIT",
       "id":"2173"
    },
    "呑":{
@@ -10886,7 +10886,7 @@ var database = {
    },
    "艶":{
       "page":"577",
-      "meaning":"CHARMING, ROMANCE",
+      "meaning":"CHARMING・ROMANCE",
       "id":"2178"
    },
    "慈":{
@@ -10946,7 +10946,7 @@ var database = {
    },
    "徴":{
       "page":"580",
-      "meaning":"LEVY, SIGN",
+      "meaning":"LEVY・SIGN",
       "id":"2190"
    },
    "懲":{
@@ -10996,12 +10996,12 @@ var database = {
    },
    "娘":{
       "page":"582",
-      "meaning":"DAUGHTER, GIRL",
+      "meaning":"DAUGHTER・GIRL",
       "id":"2200"
    },
    "嫁":{
       "page":"583",
-      "meaning":"WED A MAN, BRIDE",
+      "meaning":"WED A MAN・BRIDE",
       "id":"2201"
    },
    "稼":{
@@ -11016,12 +11016,12 @@ var database = {
    },
    "豪":{
       "page":"583",
-      "meaning":"GREAT MAN, MAGNIFICENT",
+      "meaning":"GREAT MAN・MAGNIFICENT",
       "id":"2204"
    },
    "蒙":{
       "page":"584",
-      "meaning":"IGNORANCE, PHONETIC [MÔ]",
+      "meaning":"IGNORANCE・PHONETIC [MÔ]",
       "id":"2205"
    },
    "墾":{
@@ -11031,7 +11031,7 @@ var database = {
    },
    "懇":{
       "page":"584",
-      "meaning":"FAMILIAR, EARNEST",
+      "meaning":"FAMILIAR・EARNEST",
       "id":"2207"
    },
    "貌":{
@@ -11041,7 +11041,7 @@ var database = {
    },
    "逐":{
       "page":"585",
-      "meaning":"DRIVE OUT, ONE BY ONE",
+      "meaning":"DRIVE OUT・ONE BY ONE",
       "id":"2209"
    },
    "遂":{
@@ -11086,7 +11086,7 @@ var database = {
    },
    "佐":{
       "page":"587",
-      "meaning":"ASSIST, FIELD OFFICER",
+      "meaning":"ASSIST・FIELD OFFICER",
       "id":"2218"
    },
    "玩":{
@@ -11116,7 +11116,7 @@ var database = {
    },
    "幣":{
       "page":"588",
-      "meaning":"CURRENCY, SHINTO PAPER OFFERING",
+      "meaning":"CURRENCY・SHINTO PAPER OFFERING",
       "id":"2224"
    },
    "蔽":{
@@ -11141,7 +11141,7 @@ var database = {
    },
    "桁":{
       "page":"590",
-      "meaning":"DIGIT, BEAM",
+      "meaning":"DIGIT・BEAM",
       "id":"2229"
    },
    "栓":{
@@ -11331,7 +11331,7 @@ var database = {
    },
    "渇":{
       "page":"599",
-      "meaning":"RUN DRY, THIRST",
+      "meaning":"RUN DRY・THIRST",
       "id":"2267"
    },
    "褐":{
@@ -11371,17 +11371,17 @@ var database = {
    },
    "駄":{
       "page":"601",
-      "meaning":"GOOD FOR NOTHING, CLOGS",
+      "meaning":"GOOD FOR NOTHING・CLOGS",
       "id":"2275"
    },
    "駒":{
       "page":"601",
-      "meaning":"HORSE, CHESS PIECE",
+      "meaning":"HORSE・CHESS PIECE",
       "id":"2276"
    },
    "篤":{
       "page":"602",
-      "meaning":"SERIOUS, KIND",
+      "meaning":"SERIOUS・KIND",
       "id":"2277"
    },
    "罵":{
@@ -11446,7 +11446,7 @@ var database = {
    },
    "綴":{
       "page":"605",
-      "meaning":"STITCH TOGETHER, COMPOSE",
+      "meaning":"STITCH TOGETHER・COMPOSE",
       "id":"2290"
    },
    "桑":{

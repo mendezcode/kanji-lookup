@@ -4,6 +4,7 @@
 }
 
 body {
+    -webkit-font-smoothing: antialiased;
     background: #292B2A;
     margin: 0;   /* to remove default margin of 8px */
 }
@@ -43,7 +44,9 @@ body {
 #search-box {    
     display: block;
     margin: auto; 
-    width: 40%; 
+    width: 40%;
+    min-width: 10em;
+    outline: none;
     padding: 7px; 
     font-size: 25px; 
     color: white; 
@@ -52,8 +55,8 @@ body {
     background: none; 
 }
 
-#search-button {
-    display: block; 
+#search-button, #clear-button {
+    display: inline-block; 
     margin: auto; 
     padding: 10px;
     margin-top: 10px; 
@@ -61,14 +64,30 @@ body {
     color: #33A6C4;
     background: none; 
     border-radius: 5px; 
-    border: 3px solid #33A6C4; 
+    border: 3px solid transparent; 
 }
 
-#search-button:hover {
+#search-button {
+    border-color: #33A6C4;
+}
+
+#clear-button {
+    opacity: 0.5;
+    margin-left: 1rem;
+}
+
+#search-button:hover, #clear-button:hover {
     -webkit-transition-duration: 0.4s; /* Safari */
     transition-duration: 0.4s; 
     color: white; 
     background: #33A6C4;
+    cursor: pointer;
+}
+
+#results {
+    position: relative;
+    width: 100%;
+    left: -20px;
 }
 
 #results, #kanji-block {
@@ -82,33 +101,47 @@ body {
 }
 
 #kanji-block {
-    border: 1px dashed #BFBFBF;
+    border: 1px dashed hsl(0deg 0% 74.9% / 31%);
+    border-radius: 5px;
     margin: 5px; 
-    padding: 10px; 
+    padding: 1.5rem 1rem; 
+    min-width: 10em;
 }
 
 h2 {
-    margin: 5px; 
+    margin: 5px;
+    font-weight: 300;
+    font-size: 1rem;
+    opacity: 0.5;
 }
 
 #character {
     /* display: inline-block; */
-    font-size: 50px;
+    font-size: 7em;
     margin-bottom: 5px; 
 }
 
+.sep {
+    opacity: 0.2;
+}
+
 #id {
-    padding: 0 4px; 
-    border: 1px solid #BFBFBF;
+    padding: 0.1rem 0.5rem; 
+    border-radius: 5px;
+    background: hsl(150 2% 20% / 1);
+    color: hsl(150 2% 31% / 1);
 }
 
 #meaning {
     /* display: inline-block; */
-    margin: 10px 0; 
+    margin: 1em 0; 
+    color: hsl(90.34deg 31% 60%);
+    padding: 1rem;
 }
 
 a {
     color: #BFBFBF;
+    font-size: 1rem;
 }
 
 
