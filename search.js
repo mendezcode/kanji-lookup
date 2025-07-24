@@ -59,7 +59,7 @@ const getPageNumber = _.debounce(function() {
   const kanjiList = elements.searchBox.value;
   
   if (kanjiList == null) { 
-    elements.results.innerHTML = "got NULL :/ <br> Enter a kanji baka yaro >_<";
+    elements.results.innerHTML = "";
     return;
   }  
 
