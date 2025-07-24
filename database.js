@@ -4096,7 +4096,7 @@ var database = {
    },
    "司":{
       "page":"237",
-      "meaning":"ADMINISTER",
+      "meaning":"OFFICIATE",
       "id":"820"
    },
    "伺":{

@@ -81,6 +81,10 @@ const getPageNumber = _.debounce(function() {
   if (trimmed.includes('-') && isValidRange(trimmed)) {
     searchByIDRange(trimmed);
   }
+  // Check if it's a count from ID (e.g., "30+30")
+  else if (trimmed.includes('+') && isValidCount(trimmed)) {
+    searchByIDCount(trimmed);
+  }
   // Check if it's a number (ID search)
   else if (!isNaN(parseInt(trimmed, 10))) {
     searchByID(trimmed);
@@ -109,6 +113,16 @@ function isValidRange(str) {
   return !isNaN(start) && !isNaN(end) && start <= end;
 }
 
+function isValidCount(str) {
+  const parts = str.split('+');
+  if (parts.length !== 2) return false;
+  
+  const start = parseInt(parts[0].trim(), 10);
+  const count = parseInt(parts[1].trim(), 10);
+  
+  return !isNaN(start) && !isNaN(count) && start > 0 && count > 0;
+}
+
 // Optimized batch rendering
 function printResults(kanjiArray) {
   if (!kanjiArray.length) return;
@@ -130,6 +144,28 @@ function printResults(kanjiArray) {
   
   // Single DOM update
   elements.results.innerHTML = fragments.join('');
+}
+
+function searchByIDCount(countStr) {
+  const parts = countStr.split('+');
+  const startID = parseInt(parts[0].trim(), 10);
+  const count = parseInt(parts[1].trim(), 10);
+  
+  const foundKanji = [];
+  let currentID = startID;
+  let foundCount = 0;
+  
+  // Continue until we find the requested count or reach the end
+  while (foundCount < count && currentID <= 2300) {
+    const kanji = idIndex.get(currentID);
+    if (kanji) {
+      foundKanji.push(kanji);
+      foundCount++;
+    }
+    currentID++;
+  }
+  
+  printResults(foundKanji);
 }
 
 function searchByIDRange(rangeStr) {
