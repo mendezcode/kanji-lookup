@@ -1,4 +1,4 @@
-# kanji-order
+# kanji-lookup
 
 Lookup Kanji in [Kodansha Kanji Learners Course](https://kodansha.us/product/the-kodansha-kanji-learners-course/).
 
