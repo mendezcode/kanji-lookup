@@ -4551,7 +4551,7 @@ var database = {
    },
    "再":{
       "page":"260",
-      "meaning":"AGAIN",
+      "meaning":"ANOTHER TIME",
       "id":"911"
    },
    "虎":{
